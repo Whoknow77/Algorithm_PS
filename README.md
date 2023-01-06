@@ -4,6 +4,6 @@
 
 ## 📁 프로그래머스
 
-- ### [Level 0](Algorithm_PS\Programmers\README.md)
+- ### [Level 0](./Programmers/level0/README.md)
 - ### Level 1
 
