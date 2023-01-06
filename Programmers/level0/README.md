@@ -5,7 +5,7 @@
 
 |        문제 출처         |      날짜           | 풀이    |  상태    |
 | :--: | :--------------------------: | :-------------: | :--------:  |
-|    [나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810)     | 2022/01/06 | [바로가기](./level0/120810.js) | ✔️ | 
+|    [나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810)     | 2022/01/06 | [바로가기](./120810.js) | ✔️ | 
 |    [두수의 차](https://school.programmers.co.kr/learn/courses/30/lessons/120803)     | 2022/01/06 | [바로가기]() | ✔️ |  
 |    [두수의 곱](https://school.programmers.co.kr/learn/courses/30/lessons/120804)     | 2022/01/06 | [바로가기]() | ✔️ | 
 |   [숫자 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/120807)    | 2022/01/06 | [바로가기]() | ✔️ | 
