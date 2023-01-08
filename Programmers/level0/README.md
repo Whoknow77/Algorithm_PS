@@ -35,5 +35,15 @@
 |    [배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833)    | 2022/01/07 | [바로가기](./120833.js) | ✔️ | 
 |   [최댓값 만들기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847)     | 2022/01/07 | [바로가기](./120847.js) | ✔️ | 
 |    [짝수는 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120813)     | 2022/01/07 | [바로가기](./120813.js) | ✔️ | 
+|    [배열의 유사도](https://school.programmers.co.kr/learn/courses/30/lessons/120903)     | 2022/01/08 | [바로가기](./120903.js) | ✔️ 
+|    [중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811)     | 2022/01/08 | [바로가기](./120811.js) | ✔️ |  
+|    [옷가게 할인 받기](https://school.programmers.co.kr/learn/courses/30/lessons/120818)     | 2022/01/08 | [바로가기](./120818.js) | ✔️ | 
+|   [순서쌍의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120836)    | 2022/01/08 | [바로가기](./120836.js) | ✔️ | 
+|    [문자열안에 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/120908)     | 2022/01/08 | [바로가기](./120908.js) | ✔️ | 
+|    [**자릿수 더하기**](https://school.programmers.co.kr/learn/courses/30/lessons/120906)     | 2022/01/08 | [바로가기](./120906.js) | ✔️ | 
+|    [제곱수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120909)    | 2022/01/08 | [바로가기](./120909.js) | ✔️ | 
+|    [숨어있는 숫자의 덧셈 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120851)    | 2022/01/08 | [바로가기](./120851.js) | ✔️ | 
+|   [모음 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849)     | 2022/01/08 | [바로가기](./120849.js) | ✔️ | 
+|    [개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837)     | 2022/01/08 | [바로가기](./120837.js) | ✔️ | 
 
 
