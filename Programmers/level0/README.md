@@ -44,6 +44,12 @@
 |    [제곱수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120909)    | 2022/01/08 | [바로가기](./120909.js) | ✔️ | 
 |    [숨어있는 숫자의 덧셈 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120851)    | 2022/01/08 | [바로가기](./120851.js) | ✔️ | 
 |   [모음 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849)     | 2022/01/08 | [바로가기](./120849.js) | ✔️ | 
-|    [개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837)     | 2022/01/08 | [바로가기](./120837.js) | ✔️ | 
+|    [개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837)     | 2022/01/08 | [바로가기](./120837.js) | ✔️ |
+|    [n의 배수 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/120905)     | 2022/01/08 | [바로가기](./120905.js) | ✔️ | 
+|    [대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893)     | 2022/01/08 | [바로가기](./120893.js) | ✔️ | 
+|    [세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910)     | 2022/01/08 | [바로가기](./120910.js) | ✔️ | 
+|    [직각삼각형 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120823)     | 2022/01/08 | [바로가기](./120823.js) | ✔️ | 
+|    [암호 해독](https://school.programmers.co.kr/learn/courses/30/lessons/120892)     | 2022/01/08 | [바로가기](./120892.js) | ✔️ | 
+ 
 
 
