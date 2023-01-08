@@ -15,5 +15,25 @@
 |    [두 수의 나눗셈 ](https://school.programmers.co.kr/learn/courses/30/lessons/120806)    | 2022/01/06 | [바로가기](./120806.js) | ✔️ | 
 |   [짝수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120831)     | 2022/01/06 | [바로가기](./120831.js) | ✔️ | 
 |    [배열이 평균 값](https://school.programmers.co.kr/learn/courses/30/lessons/120817)     | 2022/01/06 | [바로가기](./120817.js) | ✔️ | 
+|    [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820)     | 2022/01/07 | [바로가기](./120820.js) | ✔️ | 
+|    [머쓱이보다 큰 사람](https://school.programmers.co.kr/learn/courses/30/lessons/120585)     | 2022/01/07 | [바로가기](./120585.js) | ✔️ |  
+|    [양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830)     | 2022/01/07 | [바로가기](./120830.js) | ✔️ | 
+|   [중복된 숫자 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120583)    | 2022/01/07 | [바로가기](./120583.js) | ✔️ | 
+|    [배열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120821)     | 2022/01/07 | [바로가기](./120821.js) | ✔️ | 
+|    [배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854)     | 2022/01/07 | [바로가기](./120854.js) | ✔️ | 
+|    [피자 나눠 먹기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120814)    | 2022/01/07 | [바로가기](./120814.js) | ✔️ | 
+|    [짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824)    | 2022/01/07 | [바로가기](./120824.js) | ✔️ | 
+|   [점의 위치 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120841)     | 2022/01/07 | [바로가기](./120841.js) | ✔️ | 
+|    [배열 두배 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120809)     | 2022/01/07 | [바로가기](./120809.js) | ✔️ | 
+|    [피자 나눠 먹기 (3)](https://school.programmers.co.kr/learn/courses/30/lessons/120816)     | 2022/01/07 | [바로가기](./120816.js) | ✔️ | 
+|    [아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819)     | 2022/01/07 | [바로가기](./120819.js) | ✔️ |  
+|    [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120822)     | 2022/01/07 | [바로가기](./120822.js) | ✔️ | 
+|   [삼각형의 완성조건 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120889)    | 2022/01/07 | [바로가기](./120889.js) | ✔️ | 
+|    [편지](https://school.programmers.co.kr/learn/courses/30/lessons/120898)     | 2022/01/07 | [바로가기](./120898.js) | ✔️ | 
+|    [특정 문자 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/120826)     | 2022/01/07 | [바로가기](./120826.js) | ✔️ | 
+|    [문자 반복 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120825)    | 2022/01/07 | [바로가기](./120825.js) | ✔️ | 
+|    [배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833)    | 2022/01/07 | [바로가기](./120833.js) | ✔️ | 
+|   [최댓값 만들기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847)     | 2022/01/07 | [바로가기](./120847.js) | ✔️ | 
+|    [짝수는 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120813)     | 2022/01/07 | [바로가기](./120813.js) | ✔️ | 
 
 
