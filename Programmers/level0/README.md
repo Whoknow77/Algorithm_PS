@@ -49,7 +49,21 @@
 |    [대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893)     | 2022/01/08 | [바로가기](./120893.js) | ✔️ | 
 |    [세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910)     | 2022/01/08 | [바로가기](./120910.js) | ✔️ | 
 |    [직각삼각형 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120823)     | 2022/01/08 | [바로가기](./120823.js) | ✔️ | 
-|    [암호 해독](https://school.programmers.co.kr/learn/courses/30/lessons/120892)     | 2022/01/08 | [바로가기](./120892.js) | ✔️ | 
- 
+|    [암호 해독](https://school.programmers.co.kr/learn/courses/30/lessons/120892)     | 2022/01/08 | [바로가기](./120892.js) | ✔️ |
+|    [주사위의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120845)     | 2022/01/09 | [바로가기](./120845.js) | ✔️ |  
+|    [**가위 바위 보**](https://school.programmers.co.kr/learn/courses/30/lessons/120839)     | 2022/01/09 | [바로가기](./120839.js) | ✔️ | 
+|    [**문자열 정렬하기 (1)**](https://school.programmers.co.kr/learn/courses/30/lessons/120850)     | 2022/01/09 | [바로가기](./120850.js) | ✔️ | 
+|    [**가장 큰 수 찾기**](https://school.programmers.co.kr/learn/courses/30/lessons/120899)     | 2022/01/09 | [바로가기](./120899.js) | ✔️ | 
+|    [**최댓값 만들기 (2)**](https://school.programmers.co.kr/learn/courses/30/lessons/120862)     | 2022/01/09 | [바로가기](./120862.js) | ✔️ | 
+|    [**배열 회전시키기 (2)**](https://school.programmers.co.kr/learn/courses/30/lessons/120844)     | 2022/01/09 | [바로가기](./120844.js) | ✔️ | 
+|    [약수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120897)     | 2022/01/09 | [바로가기](./120897.js) | ✔️ | 
+|    [**외계행성의 나이**](https://school.programmers.co.kr/learn/courses/30/lessons/120834)     | 2022/01/09 | [바로가기](./120834.js) | ✔️ | 
+|    [**인덱스 바꾸기**](https://school.programmers.co.kr/learn/courses/30/lessons/120895)     | 2022/01/09 | [바로가기](./120895.js) | ✔️ | 
+|    [숫자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120904)     | 2022/01/09 | [바로가기](./120904.js) | ✔️ | 
+|    [피자 나눠 먹기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815)     | 2022/01/09 | [바로가기](./120815.js) | ✔️ | 
+|    [**369게임**](https://school.programmers.co.kr/learn/courses/30/lessons/120891)     | 2022/01/09 | [바로가기](./120891.js) | ✔️ | 
+|    [문자열 정렬하기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120911)     | 2022/01/09 | [바로가기](./120911.js) | ✔️ | 
+|    [**합성수 찾기**](https://school.programmers.co.kr/learn/courses/30/lessons/120846)     | 2022/01/09 | [바로가기](./120846.js) | ⚡ | 
+|    [**중복된 문자 제거**](https://school.programmers.co.kr/learn/courses/30/lessons/120888)     | 2022/01/09 | [바로가기](./120888.js) | ✔️ | 
 
 
