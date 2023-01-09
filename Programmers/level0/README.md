@@ -65,5 +65,6 @@
 |    [문자열 정렬하기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120911)     | 2022/01/09 | [바로가기](./120911.js) | ✔️ | 
 |    [**합성수 찾기**](https://school.programmers.co.kr/learn/courses/30/lessons/120846)     | 2022/01/09 | [바로가기](./120846.js) | ⚡ | 
 |    [**중복된 문자 제거**](https://school.programmers.co.kr/learn/courses/30/lessons/120888)     | 2022/01/09 | [바로가기](./120888.js) | ✔️ | 
+|    [팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848)     | 2022/01/09 | [바로가기](./120848.js) | ✔️ | 
 
 
