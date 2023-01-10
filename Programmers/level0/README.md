@@ -75,5 +75,6 @@
 |    [**한 번만 등장한 문자**](https://school.programmers.co.kr/learn/courses/30/lessons/120896)     | 2022/01/10 | [바로가기](./120896.js) | ✔️ | 
 |    [**7의 개수**](https://school.programmers.co.kr/learn/courses/30/lessons/120912)     | 2022/01/10 | [바로가기](./120912.js) | ✔️ | 
 |    [이진수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120885)     | 2022/01/10 | [바로가기](./120885.js) | ✔️ | 
+|    [**숨어있는 숫자의 덧셈 (2)**](https://school.programmers.co.kr/learn/courses/30/lessons/120864)     | 2022/01/10 | [바로가기](./120864.js) | ✔️ | 
 
 
