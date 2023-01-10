@@ -65,8 +65,15 @@
 |    [문자열 정렬하기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120911)     | 2022/01/09 | [바로가기](./120911.js) | ✔️ | 
 |    [**합성수 찾기**](https://school.programmers.co.kr/learn/courses/30/lessons/120846)     | 2022/01/09 | [바로가기](./120846.js) | ⚡ | 
 |    [**중복된 문자 제거**](https://school.programmers.co.kr/learn/courses/30/lessons/120888)     | 2022/01/09 | [바로가기](./120888.js) | ✔️ | 
-|    [팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848)     | 2022/01/09 | [바로가기](./120848.js) | ✔️ | 
-|    [모스부호 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120838)     | 2022/01/09 | [바로가기](./120838.js) | ✔️ |
-|    [A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886)     | 2022/01/09 | [바로가기](./120886.js) | ✔️ | 
+|    [팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848)     | 2022/01/10 | [바로가기](./120848.js) | ✔️ | 
+|    [모스부호 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120838)     | 2022/01/10 | [바로가기](./120838.js) | ✔️ |
+|    [A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886)     | 2022/01/10 | [바로가기](./120886.js) | ✔️ | 
+|    [2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842)     | 2022/01/10 | [바로가기](./120842.js) | ✔️ | 
+|    [k의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120887)     | 2022/01/10 | [바로가기](./120887.js) | ✔️ | 
+|    [가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890)     | 2022/01/10 | [바로가기](./120890.js) | ✔️ | 
+|    [**진료 순서 정하기**](https://school.programmers.co.kr/learn/courses/30/lessons/120835)     | 2022/01/10 | [바로가기](./120835.js) | ✔️ | 
+|    [**한 번만 등장한 문자**](https://school.programmers.co.kr/learn/courses/30/lessons/120896)     | 2022/01/10 | [바로가기](./120896.js) | ✔️ | 
+|    [**7의 개수**](https://school.programmers.co.kr/learn/courses/30/lessons/120912)     | 2022/01/10 | [바로가기](./120912.js) | ✔️ | 
+|    [이진수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120885)     | 2022/01/10 | [바로가기](./120885.js) | ✔️ | 
 
 

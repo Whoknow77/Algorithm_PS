@@ -4,4 +4,3 @@ function solution(my_string) {
 
 
 // !isNaN() ==> 숫자가 아닌게 아니다 => 숫자다
-console.log(solution("hi12392"));

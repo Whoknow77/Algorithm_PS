@@ -8,6 +8,5 @@ function solution(array) {
 // 다른 사람 풀이
 
 function solution2(array) {
-    let max = Math.max(...array);
-    return [max, array.indexOf(max)];
+    return [Math.max(...array), array.indexOf(max)];
 }

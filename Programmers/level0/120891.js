@@ -5,7 +5,7 @@ function solution(order) {
 
 
 function solution2(order) {
-    return (''+order).split(/[369]/).length-1;
+    return (''+order).split(/[369]/);
 }
 
 
