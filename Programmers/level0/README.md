@@ -76,5 +76,14 @@
 |    [**7의 개수**](https://school.programmers.co.kr/learn/courses/30/lessons/120912)     | 2022/01/10 | [바로가기](./120912.js) | ✔️ | 
 |    [이진수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120885)     | 2022/01/10 | [바로가기](./120885.js) | ✔️ | 
 |    [**숨어있는 숫자의 덧셈 (2)**](https://school.programmers.co.kr/learn/courses/30/lessons/120864)     | 2022/01/10 | [바로가기](./120864.js) | ✔️ | 
+|    [**공 던지기**](https://school.programmers.co.kr/learn/courses/30/lessons/120843)     | 2022/01/11 | [바로가기](./120843.js) | ⚡ | 
+|    [**소인수분해**](https://school.programmers.co.kr/learn/courses/30/lessons/120852)     | 2022/01/11 | [바로가기](./120852.js) | ⚡ | 
+|    [**영어가 싫어요**](https://school.programmers.co.kr/learn/courses/30/lessons/120894)     | 2022/01/11 | [바로가기](./120894.js) | ✔️ | 
+|    [잘라서 배열로 저장하기](https://school.programmers.co.kr/learn/courses/30/lessons/120913)     | 2022/01/11 | [바로가기](./120913.js) | ✔️ | 
+|    [**문자열 계산하기**](https://school.programmers.co.kr/learn/courses/30/lessons/120902)     | 2022/01/11 | [바로가기](./120902.js) | ✔️ | 
+|    [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840)     | 2022/01/11 | [바로가기](./120840.js) | ✔️ | **
+|    [**컨트롤 제트**](https://school.programmers.co.kr/learn/courses/30/lessons/120853)     | 2022/01/11 | [바로가기](./120853.js) | ✔️ | 
+|    [외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869)     | 2022/01/11 | [바로가기](./120869.js) | ✔️ | 
+|    [종이 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120922)     | 2022/01/11 | [바로가기](./120922.js) | ✔️ | 
 
 
