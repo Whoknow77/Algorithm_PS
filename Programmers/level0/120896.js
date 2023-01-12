@@ -26,5 +26,5 @@ function solution2(s){
 
 
 
-console.log(solution("hello"));
+console.log(solution("abcabcadc"));
 // aaabbcccd aabbcccd abbcccd

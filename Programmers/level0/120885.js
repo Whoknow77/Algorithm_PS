@@ -6,7 +6,6 @@ function solution(bin1, bin2) {
 
 function solution2(bin1, bin2) {
   let temp = Number(bin1) + Number(bin2);
-  temp = [...temp.toString()].reverse().map((v) => +v);
 
   for (let i = temp.length; i < 11; i++) {
     temp.push(0);
@@ -24,4 +23,3 @@ function solution2(bin1, bin2) {
   return Number(temp.reverse().join("")).toString();
 }
 
-console.log(solution2("11011", "1100"));

@@ -1,6 +1,7 @@
 function solution(i, j, k) {
     let answer=0;
     let arr=Array(j-i+1).fill(i).map((a,b)=>(a+b).toString());
+    console.log(arr);
     for(let i=0; i<arr.length; i++){
         for(j=0; j<arr[i].length; j++){
             if(Number(arr[i][j])===k){
@@ -28,7 +29,7 @@ function solution3(i,j,k){
     for(i;i<=j;i++){
         a += i;
     }
-
     return a.split(k).length-1;
 }
 
+console.log(solution3(1,13,1));
