@@ -85,9 +85,10 @@
 |    [**컨트롤 제트**](https://school.programmers.co.kr/learn/courses/30/lessons/120853)     | 2022/01/11 | [바로가기](./120853.js) | ✔️ | 
 |    [외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869)     | 2022/01/11 | [바로가기](./120869.js) | ✔️ | 
 |    [종이 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120922)     | 2022/01/11 | [바로가기](./120922.js) | ✔️ |
-|    [삼각형의 완성조건 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120868)     | 2022/01/12 | [바로가기](./120868.js) | ⚡ |
+|    [**삼각형의 완성조건 (2)**](https://school.programmers.co.kr/learn/courses/30/lessons/120868)     | 2022/01/12 | [바로가기](./120868.js) | ⚡ |
 |    [캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861)     | 2022/01/12 | [바로가기](./120861.js) | ✔️ |
 |    [로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883)     | 2022/01/12 | [바로가기](./120883.js) | ✔️ |
+|    [직사각형 넓이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120860)     | 2022/01/12 | [바로가기](./120860.js) | ✔️ |
  
 
 
