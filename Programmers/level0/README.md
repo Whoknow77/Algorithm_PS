@@ -55,7 +55,7 @@
 |    [**문자열 정렬하기 (1)**](https://school.programmers.co.kr/learn/courses/30/lessons/120850)     | 2022/01/09 | [바로가기](./120850.js) | ✔️ | 
 |    [**가장 큰 수 찾기**](https://school.programmers.co.kr/learn/courses/30/lessons/120899)     | 2022/01/09 | [바로가기](./120899.js) | ✔️ | 
 |    [**최댓값 만들기 (2)**](https://school.programmers.co.kr/learn/courses/30/lessons/120862)     | 2022/01/09 | [바로가기](./120862.js) | ✔️ | 
-|    [**배열 회전시키기 (2)**](https://school.programmers.co.kr/learn/courses/30/lessons/120844)     | 2022/01/09 | [바로가기](./120844.js) | ✔️ | 
+|    [**배열 회전시키기**](https://school.programmers.co.kr/learn/courses/30/lessons/120844)     | 2022/01/09 | [바로가기](./120844.js) | ✔️ | 
 |    [약수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120897)     | 2022/01/09 | [바로가기](./120897.js) | ✔️ | 
 |    [**외계행성의 나이**](https://school.programmers.co.kr/learn/courses/30/lessons/120834)     | 2022/01/09 | [바로가기](./120834.js) | ✔️ | 
 |    [**인덱스 바꾸기**](https://school.programmers.co.kr/learn/courses/30/lessons/120895)     | 2022/01/09 | [바로가기](./120895.js) | ✔️ | 
@@ -88,8 +88,14 @@
 |    [**삼각형의 완성조건 (2)**](https://school.programmers.co.kr/learn/courses/30/lessons/120868)     | 2022/01/12 | [바로가기](./120868.js) | ⚡ |
 |    [캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861)     | 2022/01/12 | [바로가기](./120861.js) | ✔️ |
 |    [로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883)     | 2022/01/12 | [바로가기](./120883.js) | ✔️ |
-|    [직사각형 넓이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120860)     | 2022/01/12 | [바로가기](./120860.js) | ✔️ |
- 
-
+|    [직사각형 넓이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120860)     | 2022/01/13 | [바로가기](./120860.js) | ✔️ |
+|    [문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921)     | 2022/01/14 | [바로가기](./120921.js) | ✔️ |
+|    [유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878)     | 2022/01/14 | [바로가기](./120878.js) | ⚡ |
+|    [치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884)     | 2022/01/14 | [바로가기](./120884.js) | ✔️ |
+|    [등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882)     | 2022/01/14 | [바로가기](./120882.js) | ✔️ |
+|    [특이한 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120880)     | 2022/01/14 | [바로가기](./120880.js) | ⚡ |
+|    [저주의 숫자 3](https://school.programmers.co.kr/learn/courses/30/lessons/120871)     | 2022/01/14 | [바로가기](./120871.js) | ⚡ |
+|    [**다항식 더하기**](https://school.programmers.co.kr/learn/courses/30/lessons/120863)     | 2022/01/14 | [바로가기](./120863.js) | ✔️ |
+|    [최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812)     | 2022/01/14 | [바로가기](./120812.js) | ✔️ |
 
 
