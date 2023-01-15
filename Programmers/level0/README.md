@@ -96,6 +96,14 @@
 |    [특이한 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120880)     | 2022/01/14 | [바로가기](./120880.js) | ⚡ |
 |    [저주의 숫자 3](https://school.programmers.co.kr/learn/courses/30/lessons/120871)     | 2022/01/14 | [바로가기](./120871.js) | ⚡ |
 |    [**다항식 더하기**](https://school.programmers.co.kr/learn/courses/30/lessons/120863)     | 2022/01/14 | [바로가기](./120863.js) | ✔️ |
-|    [최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812)     | 2022/01/14 | [바로가기](./120812.js) | ✔️ |
+|    [**최빈값 구하기**](https://school.programmers.co.kr/learn/courses/30/lessons/120812)     | 2022/01/15 | [바로가기](./120812.js) | ✔️ solution3 |
+|    [**OX퀴즈**](https://school.programmers.co.kr/learn/courses/30/lessons/120907)     | 2022/01/15 | [바로가기](./120907.js) | ✔️ |
+|    [다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924)     | 2022/01/15 | [바로가기](./120924.js) | ✔️ |
+|    [**분수의 덧셈**](https://school.programmers.co.kr/learn/courses/30/lessons/120808)     | 2022/01/15 | [바로가기](./120808.js) | ✔️ |
+|    [연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923)     | 2022/01/15 | [바로가기](./120923.js) | ✔️ |
+|    [**안전지대**](https://school.programmers.co.kr/learn/courses/30/lessons/120866)     | 2022/01/15 | [바로가기](./120866.js) | ⚡ |
+|    [겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876)     | 2022/01/15 | [바로가기](./120876.js) | ⚡ |
+|    [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)     | 2022/01/15 | [바로가기](./120875.js) |  |
+|    [옹알이](https://school.programmers.co.kr/learn/courses/30/lessons/120956)     | 2022/01/15 | [바로가기](./120956.js) |  |
 
 
