@@ -102,8 +102,8 @@
 |    [**분수의 덧셈**](https://school.programmers.co.kr/learn/courses/30/lessons/120808)     | 2022/01/15 | [바로가기](./120808.js) | ✔️ |
 |    [연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923)     | 2022/01/15 | [바로가기](./120923.js) | ✔️ |
 |    [**안전지대**](https://school.programmers.co.kr/learn/courses/30/lessons/120866)     | 2022/01/15 | [바로가기](./120866.js) | ⚡ |
-|    [겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876)     | 2022/01/15 | [바로가기](./120876.js) | ⚡ |
-|    [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)     | 2022/01/15 | [바로가기](./120875.js) |  |
-|    [옹알이](https://school.programmers.co.kr/learn/courses/30/lessons/120956)     | 2022/01/15 | [바로가기](./120956.js) |  |
+|    [**겹치는 선분의 길이**](https://school.programmers.co.kr/learn/courses/30/lessons/120876)     | 2022/01/15 | [바로가기](./120876.js) | ⚡ |
+|    [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)     | 2022/01/15 | [바로가기](./120875.js) | ✔️ |
+|    [옹알이](https://school.programmers.co.kr/learn/courses/30/lessons/120956)     | 2022/01/15 | [바로가기](./120956.js) | ✔️ |
 
 
