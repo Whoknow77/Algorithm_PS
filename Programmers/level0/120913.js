@@ -1,5 +1,5 @@
 function solution(my_str, n) {
-    return [...my_str].map((a,b)=>[...my_str].splice(b*n,n).join('')).filter(a=>a);
+    return [...my_str].map((a,b)=>[...my_str].splice(b*n,n).join(''));
 }
 
 
@@ -11,5 +11,7 @@ function solution2(my_str, n) {
      res.push(my_str.slice(i, i+n));
     return res;
 }
+
+console.log(solution("abc1Addfggg4556b", 6));
 
 

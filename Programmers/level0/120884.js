@@ -26,6 +26,18 @@ function solution2(chicken) {
 
     return answer;
 }
+
+function solution3(chicken) {
+    var answer = 0;
+    while(chicken>=10){
+        answer+=parseInt(chicken/10);
+        chicken = chicken%10+parseInt(chicken/10);
+    }
+    return answer;
+}
+
+
+console.log(solution3(1080));
 // 108 1
 // 10 9
 // 1 0

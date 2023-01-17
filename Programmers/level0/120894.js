@@ -74,6 +74,22 @@ function solution4(numbers) {
     return Number(num);
 }
 
+function solution5(numbers) {
+    var answer = 0;
+    const alpha = ["zero","one","two","three","four","five","six","seven","eight","nine"];
+    for(let i =0;i<alpha.length;i++){
+        numbers=numbers.split(alpha[i]).join(i);
+    }
+    return Number(numbers);
+}
 
+function 5(numbers) {
+    var answer = 0;
+    const alpha = ["zero","one","two","three","four","five","six","seven","eight","nine"];
+    for(let i =0;i<alpha.length;i++){
+        numbers=numbers.split(alpha[i]).join(i);
+    }
+    return Number(numbers);
+}
 
-console.log(solution2("onefourzerosixseven"));
+console.log(solution5("onefourzerosixseven"));

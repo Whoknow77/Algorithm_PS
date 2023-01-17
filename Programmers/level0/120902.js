@@ -39,3 +39,5 @@ function solution3(my_string) {
     return arr[0]
 }
 
+console.log(solution("3 + 4"));
+

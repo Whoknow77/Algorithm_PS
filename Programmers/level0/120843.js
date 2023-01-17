@@ -8,7 +8,6 @@ function solution(numbers, k) {
         
         if(index > numbers.length){
             index -= numbers.length;
-            console.log(index);
         }
     }
     return numbers[index-2];
