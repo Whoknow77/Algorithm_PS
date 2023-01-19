@@ -5,6 +5,11 @@ function solution(numer1, denom1, numer2, denom2) {
     return[x/opr, y/opr];
 }
 
+
+// 최대공약수 구하기
+// a<b이면 a>b 자리바꿈 ==> 36 12 => 12 0 => 12
+// 9 4 => 4 1 => 1 0 ==> 1
+
 function gcd(a,b){
     while(b!=0){
         let temp=parseInt(a%b);
@@ -15,13 +20,12 @@ function gcd(a,b){
     return Math.abs(a);
 }
 
-// 분모의 최소 공배수 찾기
-// 기약분수는 최대공약수가 1이 아닐때 까지 분모/분자를 나눠야 함
 
-// 다른 사람 풀이의 최대공약수 구하는 함수
+
+// a<b 이거나 나누어 떨어지지 않으면 함수 실행 
 
 function fnGCD(a, b){
     return (a%b)? fnGCD(b, a%b) : b;
 }
 
-console.log(solution(1,2,3,4));
+

@@ -1,3 +1,7 @@
+// 1차원 배열의 깊은 복사 => spread[...] 이용
+// 다차원 배열의 깊은 복사 => JSON.parse(JSON.stringify(배열));
+// 문자열로 변환 => 자바스크립트 Object형태로 parsing
+
 function solution(board){
     if(board.length===1){
         if(board[0][0]===0){
@@ -68,5 +72,18 @@ function solution(board){
 
 }
 
-console.log(solution([[1]]));
-    
+// forEach(element, index, array)
+
+function solution2(board) {
+
+    let outside = [[-1,0], [-1,-1], [-1,1], [0,-1],[0,1],[1,0], [1,-1], [1,1]];
+    let safezone = 0;
+    board.forEach((row, y, self) => row.forEach((it, x) => {
+        if (it === 1) return false;
+        return outside.some(([oy, ox]) => !!self[oy + y]?.[ox + x])
+               ? false : safezone++;
+    }));
+    return safezone;
+}
+
+console.log(solution2([[1, 1, 1, 1, 1, 1], [1, 1, 1, 1, 1, 1], [1, 1, 1, 1, 1, 1], [1, 1, 1, 1, 1, 1], [1, 1, 1, 1, 1, 1], [1, 1, 1, 1, 1, 1]]));

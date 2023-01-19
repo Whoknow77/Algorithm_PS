@@ -6,7 +6,7 @@ function solution(quiz) {
     let answer=[];
 
    answer=quiz.map((str,b)=>{
-        opr = str.match(/[\D]\s/g)[0].trim(); // 중간 연산자
+        opr = str.match(/[\D]\s/g); // 중간 연산자
         result = quiz.map(str => str.split(' ').map(a=>a*1).filter(item=>Number.isInteger(item)))[b][2]; // 결과 값
         x=quiz.map(str => str.split(' ').map(a=>a*1).filter(item=>Number.isInteger(item)))[b][0]; // 첫번째 숫자
         y=quiz.map(str => str.split(' ').map(a=>a*1).filter(item=>Number.isInteger(item)))[b][1]; // 두번째 숫자
@@ -30,13 +30,19 @@ function solution2(quiz) {
         const [calc, result] = t.split(' = ');
         const sign = calc.includes('+') ? 1 : -1
         const [a, b] = calc.split(sign === 1 ? ' + ' : ' - ');
-        console.log(a);
-        console.log(b);
-        console.log(result);
         
         // 문자 앞에 +는 숫자로 만들어 주려고
         return +a + (+b * sign) === +result ? 'O' : 'X'
     });
 }
 
-console.log(solution2(["3 - 4 = -3", "5 + 6 = 11"]));
+console.log(solution(["3 - 4 = -3", "5 + 6 = 11"]));
+
+
+객체.addEventListener('click', add);
+
+add(e){
+    e -> event
+
+}
+
