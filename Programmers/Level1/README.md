@@ -16,3 +16,9 @@
 |    [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925)     | 2022/01/19 | [바로가기](./12925.js) | ✔️ |
 |    [정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933)     | 2022/01/19 | [바로가기](./12933.js) | ✔️ |
 |    [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)     | 2022/01/19 | [바로가기](./12947.js) | ✔️ |
+|    [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)     | 2022/01/20 | [바로가기](./87839.js) | ✔️ |
+|    [두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912)     | 2022/01/20 | [바로가기](./12912.js) | ✔️ |
+|    [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)     | 2022/01/20 | [바로가기](./12943.js) | ✔️ |
+|    [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)     | 2022/01/20 | [바로가기](./12919.js) | ✔️ |
+|    [나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910)     | 2022/01/20 | [바로가기](./12910.js) | ✔️ |
+
