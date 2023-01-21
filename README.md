@@ -15,5 +15,5 @@
 ## 📁 프로그래머스
 
 - ### [Level 0](./Programmers/level0/README.md)
-- ### [Level 1](./programmers/Level1/README.md)
+- ### [Level 1](./Programmers/Level1/README.md)
 
