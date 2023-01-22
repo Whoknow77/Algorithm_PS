@@ -32,4 +32,9 @@
 |    [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)     | 2022/01/21 | [바로가기](./77884.js) | ✔️ |
 |    [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)     | 2022/01/21 | [바로가기](./12918.js) | ✔️ |
 |    [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)     | 2022/01/21 | [바로가기](./82612.js) | ✔️ |
+|    [**행렬의 덧셈**](https://school.programmers.co.kr/learn/courses/30/lessons/12950)     | 2022/01/22 | [바로가기](./12950.js) | ⚡ |
+|    [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969)     | 2022/01/22 | [바로가기](./12969.js) | ✔️ |
+|    [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)     | 2022/01/22 | [바로가기](./12940.js) | ✔️ |
+|    [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)     | 2022/01/22 | [바로가기](./12906.js) | ✔️ |
+|    [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)     | 2022/01/22 | [바로가기](./68935.js) | ✔️ |
 
