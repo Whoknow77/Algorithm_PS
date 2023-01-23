@@ -37,4 +37,9 @@
 |    [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)     | 2022/01/22 | [바로가기](./12940.js) | ✔️ |
 |    [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)     | 2022/01/22 | [바로가기](./12906.js) | ✔️ |
 |    [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)     | 2022/01/22 | [바로가기](./68935.js) | ✔️ |
+|    [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)     | 2022/01/23 | [바로가기](./12930.js) | ✔️ |
+|    [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)     | 2022/01/23 | [바로가기](./12982.js) | ✔️ |
+|    [**시저 암호**](https://school.programmers.co.kr/learn/courses/30/lessons/12926)     | 2022/01/23 | [바로가기](./12926.js) | ✔️ |
+|    [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)     | 2022/01/23 | [바로가기](./86491.js) | ⚡ |
+|    [[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)     | 2022/01/23 | [바로가기](./17681.js) | ✔️ |
 
