@@ -42,4 +42,8 @@
 |    [**시저 암호**](https://school.programmers.co.kr/learn/courses/30/lessons/12926)     | 2022/01/23 | [바로가기](./12926.js) | ✔️ |
 |    [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)     | 2022/01/23 | [바로가기](./86491.js) | ⚡ |
 |    [[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)     | 2022/01/23 | [바로가기](./17681.js) | ✔️ |
+|    [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)     | 2022/01/24 | [바로가기](./131705.js) | ✔️ |
+|    [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)     | 2022/01/24 | [바로가기](./12915.js) | ⚡ |
+|    [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)     | 2022/01/24 | [바로가기](./42748.js) | ✔️ |
+
 
