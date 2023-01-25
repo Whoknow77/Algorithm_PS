@@ -45,5 +45,11 @@
 |    [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)     | 2022/01/24 | [바로가기](./131705.js) | ✔️ |
 |    [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)     | 2022/01/24 | [바로가기](./12915.js) | ⚡ |
 |    [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)     | 2022/01/24 | [바로가기](./42748.js) | ✔️ |
+|    [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)     | 2022/01/25 | [바로가기](./81301.js) | ✔️ |
+|    [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)     | 2022/01/25 | [바로가기](./68644.js) | ✔️ |
+|    [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901)     | 2022/01/25 | [바로가기](./12901.js) | ✔️ |
+|    [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)     | 2022/01/25 | [바로가기](./1845.js) | ✔️ |
+|    [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)     | 2022/01/25 | [바로가기](./132267.js) | ✔️ |
+
 
 
