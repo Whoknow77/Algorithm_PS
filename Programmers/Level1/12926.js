@@ -1,10 +1,9 @@
-//   대 소문자로 나누고 n을 더한 아스키코드 값이 알파벳 범위 밖이라면
-//   벗어난 만큼 알파벳처음으로 돌아가서 더해준다.
 function solution(s, n) {
     return [...s].map(ch => 
             {
                 // 대문자
                 if((ch.charCodeAt()+n>=91 && ch.charCodeAt()<=96)){
+                    console.log(ch.charCodeAt()+n);
                     return String.fromCharCode(((ch.charCodeAt()+n) % 90)+64);                   
                 }
                 else if((ch.charCodeAt()+n>=65 && ch.charCodeAt()<=90)){
@@ -52,5 +51,4 @@ function solution3(s, n) {
     var chars = "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXY"
     return s.split('').map(e => chars[chars.indexOf(e)+n]).join('');
 }
-
 

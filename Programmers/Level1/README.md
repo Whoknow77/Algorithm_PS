@@ -50,6 +50,10 @@
 |    [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901)     | 2022/01/25 | [바로가기](./12901.js) | ✔️ |
 |    [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)     | 2022/01/25 | [바로가기](./1845.js) | ✔️ |
 |    [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)     | 2022/01/25 | [바로가기](./132267.js) | ✔️ |
+|    [크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355)     | 2022/01/27 | [바로가기](./147355.js) | ✔️ |
+|    [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921)     | 2022/01/27 | [바로가기](./12921.js) | ✔️ |
+|    [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)     | 2022/01/27 | [바로가기](./12977.js) | ✔️ |
+|    [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)     | 2022/01/27 | [바로가기](./134240.js) | ✔️ |
 
 
 

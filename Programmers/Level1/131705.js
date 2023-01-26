@@ -12,5 +12,3 @@ function solution(number) {
     return sum;
 }
 
-
-console.log(solution2([-3, -2, -1, 0, 1, 2, 3]));

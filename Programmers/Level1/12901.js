@@ -17,6 +17,5 @@ function solution3(a, b) {
     for(let i=0 ; i<a-1 ; i++)
         days += monthDay[i];
     
-    console.log(days);
     return weekDay[days%7];
 } 
