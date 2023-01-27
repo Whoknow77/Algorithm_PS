@@ -54,8 +54,9 @@
 |    [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921)     | 2022/01/27 | [바로가기](./12921.js) | ✔️ |
 |    [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)     | 2022/01/27 | [바로가기](./12977.js) | ✔️ |
 |    [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)     | 2022/01/27 | [바로가기](./134240.js) | ✔️ |
+|    [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)     | 2022/01/27 | [바로가기](./42889.js) | ✔️ |
+|    [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)     | 2022/01/27 | [바로가기](./42840.js) | ✔️ |
+|    [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)     | 2022/01/27 | [바로가기](./142086.js) | ✔️ |
 
 
-
-
-
+`
