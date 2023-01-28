@@ -57,6 +57,10 @@
 |    [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)     | 2022/01/27 | [바로가기](./42889.js) | ✔️ |
 |    [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)     | 2022/01/27 | [바로가기](./42840.js) | ✔️ |
 |    [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)     | 2022/01/27 | [바로가기](./142086.js) | ✔️ |
+|    [**[1차] 다트 게임**](https://school.programmers.co.kr/learn/courses/30/lessons/17682)     | 2022/01/28 | [바로가기](./17682.js) | ✔️ |
+|    [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)     | 2022/01/28 | [바로가기](./77484.js) | ✔️ |
+|    [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)     | 2022/01/28 | [바로가기](./135808.js) | ✔️ |
+
 
 
 `
