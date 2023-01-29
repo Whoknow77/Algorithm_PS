@@ -60,6 +60,11 @@
 |    [**[1차] 다트 게임**](https://school.programmers.co.kr/learn/courses/30/lessons/17682)     | 2022/01/28 | [바로가기](./17682.js) | ✔️ |
 |    [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)     | 2022/01/28 | [바로가기](./77484.js) | ✔️ |
 |    [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)     | 2022/01/28 | [바로가기](./135808.js) | ✔️ |
+|    [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)     | 2022/01/29 | [바로가기](./42862.js) | ✔️ |
+|    [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)     | 2022/01/29 | [바로가기](./42576.js) | ⚡ |
+|    [명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477)     | 2022/01/30 | [바로가기](./138477.js) | ✔️ |
+|    [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)     | 2022/01/30 | [바로가기](./131128.js) | ⚡ |
+|    [**기사단원의 무기**](https://school.programmers.co.kr/learn/courses/30/lessons/136798)     | 2022/01/30 | [바로가기](./136798.js) | ✔️ |
 
 
 
