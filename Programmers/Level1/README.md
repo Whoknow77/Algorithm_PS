@@ -65,6 +65,7 @@
 |    [명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477)     | 2022/01/30 | [바로가기](./138477.js) | ✔️ |
 |    [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)     | 2022/01/30 | [바로가기](./131128.js) | ⚡ |
 |    [**기사단원의 무기**](https://school.programmers.co.kr/learn/courses/30/lessons/136798)     | 2022/01/30 | [바로가기](./136798.js) | ✔️ |
+|    [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)     | 2022/01/30 | [바로가기](./67256.js) | ⚡ |
 
 
 
