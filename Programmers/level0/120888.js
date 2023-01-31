@@ -1,10 +1,9 @@
 function solution(my_string) {
-    return Array.from(new Set([...my_string])).join('');
+  return Array.from(new Set([...my_string])).join("");
 }
 
 // 다른 사람 풀이
 
 function solution(my_string) {
-    return [...new Set(my_string)].join('');
+  return [...new Set(my_string)].join("");
 }
-

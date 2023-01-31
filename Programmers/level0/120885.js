@@ -1,5 +1,5 @@
 function solution(bin1, bin2) {
-    return (parseInt(bin1, 2)+parseInt(bin2, 2)).toString(2);
+  return (parseInt(bin1, 2) + parseInt(bin2, 2)).toString(2);
 }
 
 // 다른 사람 풀이(reverse 이해가 안감)
@@ -22,4 +22,3 @@ function solution2(bin1, bin2) {
   }
   return Number(temp.reverse().join("")).toString();
 }
-

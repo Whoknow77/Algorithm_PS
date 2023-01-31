@@ -1,15 +1,11 @@
-
 function solution(dots) {
-    let x=dots.map(a=>a[0]).sort((a,b) => a-b);
-    let y=dots.map(b=>b[1]).sort((a,b) => a-b);
-    return (x[3]-x[0])*(y[3]-y[0]);
+  let x = dots.map((a) => a[0]).sort((a, b) => a - b);
+  let y = dots.map((b) => b[1]).sort((a, b) => a - b);
+  return (x[3] - x[0]) * (y[3] - y[0]);
 }
 
-
-
-
 // function solution(polynomial) {
-   
+
 //     let number=polynomial.split('+').sort().join(',').match(/[0-9]*\b/g);
 //     let sum=number.map(a=>a*1).reduce((a,b)=>a+b);
 //     let sum2=0;
@@ -24,7 +20,6 @@ function solution(dots) {
 //                 return z;
 //             }
 //         }).map(c=>c.replace('x', '')).map(n=>n*1).reduce((r,t)=>r+t);
-
 
 // if(alpha===0){
 //     return sum.toString();

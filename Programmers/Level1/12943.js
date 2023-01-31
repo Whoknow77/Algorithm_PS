@@ -21,12 +21,10 @@ function solution(num) {
 }
 
 function solution2(num) {
-    let answer = 0;
-    while(num !=1 && answer !=500){
-        num%2==0 ? num = num/2 : num = num*3 +1;
+  let answer = 0;
+  while (num != 1 && answer != 500) {
+    num % 2 == 0 ? (num = num / 2) : (num = num * 3 + 1);
     answer++;
   }
-    return num == 1 ? answer : -1;
+  return num == 1 ? answer : -1;
 }
-
-

@@ -3,34 +3,33 @@
 // s 문자열을 그대로 배열로 바꾸고 splice를 하면 자른 결과가 반영이 안되므로 반드시 따로 변수를 두어 배열로 저장해야 함
 
 function solution(s) {
-    const answer=[...s];
-    const char=[];
-    return answer.map((ch,index) =>
-        {
-            if(char.includes(ch)){
-                index2 = answer.indexOf(ch);
-                answer.splice(index2, 1, '');
-                return index - index2; 
-            }
-            char.push(ch);
-            return -1;
-        }); 
+  const answer = [...s];
+  const char = [];
+  return answer.map((ch, index) => {
+    if (char.includes(ch)) {
+      index2 = answer.indexOf(ch);
+      answer.splice(index2, 1, "");
+      return index - index2;
+    }
+    char.push(ch);
+    return -1;
+  });
 }
 
 // 다른 사람 풀이
 // 객체 사용(문자 : 인덱스), 인덱스를 덮어씌움
 function solution2(s) {
-    const hash={};
+  const hash = {};
 
-    return [...s].map((v,i)=>{
-        let result = hash[v] !== undefined ? i - hash[v] : -1;
-        hash[v] = i;
-        return result;
-    });
+  return [...s].map((v, i) => {
+    let result = hash[v] !== undefined ? i - hash[v] : -1;
+    hash[v] = i;
+    return result;
+  });
 }
 
-// lastindexof 이용 '', 'b', 'ba', ... 
-function solution3(s){
+// lastindexof 이용 '', 'b', 'ba', ...
+function solution3(s) {
   return [...s].map((char, i) => {
     const count = s.slice(0, i).lastIndexOf(char);
     return count < 0 ? count : i - count;
