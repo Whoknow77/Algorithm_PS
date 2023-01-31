@@ -8,7 +8,7 @@ function solution(nums) {
             }
         }
     }
-    return numArray.filter(num=>isPrime(num)).length;
+    return numArray.filter(num=>isPrime(num));
 }
 
 function isPrime(n) {
@@ -20,15 +20,17 @@ function isPrime(n) {
             }
         }
     }
+
     return arr[n];
 }
+
 
 // 다른 사람 풀이
 // n이 2~n제곱근 사이에 나누어 떨어지는 경우가 있으면 소수가 아님
 // ex => 101은 2~10사이에 약수가 없음
 
-function isPrime(n){
-    for(var i=2;i<=Math.sqrt(n);i++){
+function isPrime2(n){
+    for(let i=2;i<=Math.sqrt(n);i++){
         if(n%i == 0){
             return false;
         }

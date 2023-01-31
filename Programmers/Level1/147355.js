@@ -2,8 +2,7 @@ function solution(t, p) {
 
     return t.split('')
     .map((num, index) => t.slice(index, index+p.length))
-    .filter(item => item.length===p.length)
-    .map(a => +a).filter(b => b<=p).length;
+    .filter(item => item.length===p.length && item<=p).length;
 }
 
 // 다른 사람 풀이
@@ -18,4 +17,6 @@ function solution2(t, p){
     }
     return count;
 }
+
+console.log(solution("500220839878", "7"));
 

@@ -7,8 +7,8 @@ function solution(n) {
     }
 
     // 3부터 루트 n으로 나누어 떨어질 때까지 나누기
-    
-    for (var i=3;i*i <= n;i=i+2) {
+
+    for (let i=3;i*i <= n;i=i+2) {  
         while (n%i==0) {
             answer.push(i);
             n = n/i
@@ -35,10 +35,7 @@ function solution2(n) {
         else
             tmp++;
         
-    }
-    console.log(answer);
-    
-    
+    }    
     return [...new Set(answer)];
 }
 

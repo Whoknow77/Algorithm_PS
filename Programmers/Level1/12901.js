@@ -18,4 +18,6 @@ function solution3(a, b) {
         days += monthDay[i];
     
     return weekDay[days%7];
-} 
+}
+
+console.log(solution())

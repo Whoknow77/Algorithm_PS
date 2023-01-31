@@ -22,4 +22,4 @@ function solution2(k, m, score) {
     return answer;
 }
 
-console.log(solution2(4,3,[4, 1, 2, 2, 4, 4, 4, 4, 1, 2, 4, 2]));
+console.log(solution(4,3,[4, 1, 2, 2, 4, 4, 4, 4, 1, 2, 4, 2]));
