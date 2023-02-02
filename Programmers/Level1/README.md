@@ -72,3 +72,6 @@
 |         [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)         | 2022/02/01 | [바로가기](./72410.js)  |  ⚡  |
 |          [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)          | 2022/02/01 | [바로가기](./140108.js) |  ✔️  |
 |       [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)        | 2022/02/01 | [바로가기](./118666.js) |  ⚡  |
+|        [**햄버거 만들기**](https://school.programmers.co.kr/learn/courses/30/lessons/133502)        | 2022/02/01 | [바로가기](./133502.js) |  ✔️  |
+|        [**신고 결과 받기**](https://school.programmers.co.kr/learn/courses/30/lessons/92334)        | 2022/02/01 | [바로가기](./92334.js)  |  ✔️  |
+|     [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)      | 2022/02/01 | [바로가기](./150370.js) |  ⚡  |
