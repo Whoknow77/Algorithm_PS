@@ -19,4 +19,5 @@
 
 ## 인프런 강의(김태원님)
 
-- ### [Section 1](./inflearn/)
+- ### [Section 1](./inflearn/section1/README.md)
+- ### [Section 2(1,2 차원 탐색)](./inflearn/section2/README.md)
