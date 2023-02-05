@@ -7,7 +7,6 @@ function solution(arr) {
       sum += flagsum;
     } else {
       flagsum = 0;
-      sum += arr[i];
     }
   }
   return sum;
