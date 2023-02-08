@@ -75,3 +75,4 @@
 |        [**햄버거 만들기**](https://school.programmers.co.kr/learn/courses/30/lessons/133502)        | 2022/02/01 | [바로가기](./133502.js) |  ✔️  |
 |        [**신고 결과 받기**](https://school.programmers.co.kr/learn/courses/30/lessons/92334)        | 2022/02/01 | [바로가기](./92334.js)  |  ✔️  |
 |     [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)      | 2022/02/01 | [바로가기](./150370.js) |  ⚡  |
+|         [**둘만의 암호**](https://school.programmers.co.kr/learn/courses/30/lessons/155652)         | 2022/02/06 | [바로가기](./155652.js) |  ✔️  |
