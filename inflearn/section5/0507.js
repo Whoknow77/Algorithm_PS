@@ -3,11 +3,13 @@ function solution(str1, str2) {
   let answer = "YES";
   let map1 = new Map();
   let map2 = new Map();
-  [...str1].forEach((char) => {
-    map1.set(char, (map1.get(char) + 1) | 1);
+  [...str1].forEach((x) => {
+    if (map1.has(x)) map1.set(x, map1.get(x) + 1);
+    else map1.set(x, 1);
   });
-  [...str2].forEach((char) => {
-    map2.set(char, (map2.get(char) + 1) | 1);
+  [...str2].forEach((x) => {
+    if (map2.has(x)) map2.set(x, map2.get(x) + 1);
+    else map2.set(x, 1);
   });
   for (let [key, value] of map1) {
     if (value !== map2.get(key)) {

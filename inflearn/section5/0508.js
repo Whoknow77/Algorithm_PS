@@ -60,8 +60,8 @@ function compareMaps(map1, map2) {
 
 function solution(s, t) {
   let answer = 0;
-  let tH = new Map();
   let sH = new Map();
+  let tH = new Map();
   for (let x of t) {
     if (tH.has(x)) tH.set(x, tH.get(x) + 1);
     else tH.set(x, 1);

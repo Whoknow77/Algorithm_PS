@@ -21,18 +21,14 @@ function solution(m, arr) {
 // 정답
 function solution(m, arr) {
   let answer = 0,
-    start = 0,
+    lt = 0,
     sum = 0;
-  for (let end = 0; end < arr.length; end++) {
-    sum += arr[end];
-    if (sum === m) {
-      answer++;
-    }
+  for (let rt = 0; rt < arr.length; rt++) {
+    sum += arr[rt];
+    if (sum === m) answer++;
     while (sum >= m) {
-      sum -= arr[start++];
-      if (sum === m) {
-        answer++;
-      }
+      sum -= arr[lt++];
+      if (sum === m) answer++;
     }
   }
   return answer;
