@@ -26,3 +26,4 @@
 - ### [Section 5(효율성)](./inflearn/section5/README.md)
 - ### [Section 6(스택, 큐)](./inflearn/section6/README.md)
 - ### [Section 7(정렬, 그리디, 결정)](./inflearn/section7/README.md)
+- ### [Section 8(재귀함수와 완전탐색)](./inflearn/section8/README.md)
