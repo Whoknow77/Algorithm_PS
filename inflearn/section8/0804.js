@@ -18,5 +18,5 @@ function solution(n) {
   DFS(1);
   return answer;
 }
-
+// 0 0 1 0
 console.log(solution(3));
