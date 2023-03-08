@@ -76,3 +76,6 @@
 |        [**신고 결과 받기**](https://school.programmers.co.kr/learn/courses/30/lessons/92334)        | 2022/02/01 | [바로가기](./92334.js)  |  ✔️  |
 |     [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)      | 2022/02/01 | [바로가기](./150370.js) |  ⚡  |
 |         [**둘만의 암호**](https://school.programmers.co.kr/learn/courses/30/lessons/155652)         | 2022/02/06 | [바로가기](./155652.js) |  ✔️  |
+|            [카드뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)             | 2022/03/08 | [바로가기](./159994.js) |  ✔️  |
+|       [**대충 만든 자판**](https://school.programmers.co.kr/learn/courses/30/lessons/160586)        | 2022/03/08 | [바로가기](./160586.js) |  ✔️  |
+|          [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)          | 2022/03/08 | [바로가기](./161990.js) |  ✔️  |
