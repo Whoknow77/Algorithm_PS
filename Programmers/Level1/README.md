@@ -79,3 +79,4 @@
 |            [카드뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)             | 2022/03/08 | [바로가기](./159994.js) |  ✔️  |
 |       [**대충 만든 자판**](https://school.programmers.co.kr/learn/courses/30/lessons/160586)        | 2022/03/08 | [바로가기](./160586.js) |  ✔️  |
 |          [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)          | 2022/03/08 | [바로가기](./161990.js) |  ✔️  |
+|            [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)             | 2022/03/22 | [바로가기](./161989.js) |  ⚡  |
