@@ -7,3 +7,4 @@
 |    [팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988)    | 2023/03/27 | [바로가기](./10988.js) |  ✔️  |   B2   |
 | [킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003) | 2023/03/27 | [바로가기](./3003.js)  |  ✔️  |   B5   |
 |         [별 찍기 - 7](https://www.acmicpc.net/problem/2444)          | 2023/03/27 | [바로가기](./2444.js)  |  ⚡  |   B3   |
+|        [그룹 단어 체커](https://www.acmicpc.net/problem/1316)        | 2023/03/28 | [바로가기](./1316.js)  |  ✔️  |   S5   |
