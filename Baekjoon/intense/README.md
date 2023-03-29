@@ -8,3 +8,5 @@
 | [킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003) | 2023/03/27 | [바로가기](./3003.js)  |  ✔️  |   B5   |
 |         [별 찍기 - 7](https://www.acmicpc.net/problem/2444)          | 2023/03/27 | [바로가기](./2444.js)  |  ⚡  |   B3   |
 |        [그룹 단어 체커](https://www.acmicpc.net/problem/1316)        | 2023/03/28 | [바로가기](./1316.js)  |  ✔️  |   S5   |
+|          [타자 연습](https://www.acmicpc.net/problem/17487)          | 2023/03/29 | [바로가기](./17487.js) |  ✔️  |   B2   |
+|          [단어 공부](https://www.acmicpc.net/problem/1157)           | 2023/03/29 | [바로가기](./1157.js)  |  ✔️  |   B1   |

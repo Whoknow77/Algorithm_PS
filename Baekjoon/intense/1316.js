@@ -28,7 +28,7 @@ function solution(input, etce) {
 
 console.log(solution(input, etce));
 
-//
+// solution2
 const arr = [];
 
 for (let i = 1; i < input.length; i++) {

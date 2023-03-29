@@ -45,7 +45,6 @@ function solution2(survey, choices) {
 
 function solution3(survey, choices) {
   const data = { R: 0, T: 0, C: 0, F: 0, J: 0, M: 0, A: 0, N: 0 };
-
   for (let i = 0; i < survey.length; i++) {
     const score = choices[i] - 4;
     let type = survey[i].split("")[score < 0 ? 0 : 1];
