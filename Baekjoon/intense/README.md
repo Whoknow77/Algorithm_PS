@@ -10,3 +10,4 @@
 |        [그룹 단어 체커](https://www.acmicpc.net/problem/1316)        | 2023/03/28 | [바로가기](./1316.js)  |  ✔️  |   S5   |
 |          [타자 연습](https://www.acmicpc.net/problem/17487)          | 2023/03/29 | [바로가기](./17487.js) |  ✔️  |   B2   |
 |          [단어 공부](https://www.acmicpc.net/problem/1157)           | 2023/03/29 | [바로가기](./1157.js)  |  ✔️  |   B1   |
+|         [너의 평점은](https://www.acmicpc.net/problem/25206)         | 2023/03/29 | [바로가기](./25206.js) |  ✔️  |   S5   |
