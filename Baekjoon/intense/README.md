@@ -10,4 +10,6 @@
 |        [그룹 단어 체커](https://www.acmicpc.net/problem/1316)        | 2023/03/28 | [바로가기](./1316.js)  |  ✔️  |   S5   |
 |          [타자 연습](https://www.acmicpc.net/problem/17487)          | 2023/03/29 | [바로가기](./17487.js) |  ✔️  |   B2   |
 |          [단어 공부](https://www.acmicpc.net/problem/1157)           | 2023/03/29 | [바로가기](./1157.js)  |  ✔️  |   B1   |
-|         [너의 평점은](https://www.acmicpc.net/problem/25206)         | 2023/03/29 | [바로가기](./25206.js) |  ✔️  |   S5   |
+|         [너의 평점은](https://www.acmicpc.net/problem/25206)         | 2023/04/02 | [바로가기](./25206.js) |  ✔️  |   S5   |
+|     [인사성 밝은 곰곰이](https://www.acmicpc.net/problem/25192)      | 2023/04/03 | [바로가기](./25192.js) |  ✔️  |   S4   |
+|     [붙임성 좋은 총총이](https://www.acmicpc.net/problem/26069)      | 2023/04/03 | [바로가기](./26069.js) |  ✔️  |   S4   |

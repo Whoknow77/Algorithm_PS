@@ -1,20 +1,13 @@
-ObjectOrientedProgramming1 3.0 A+
-IntroductiontoComputerEngineering 3.0 A+
-ObjectOrientedProgramming2 3.0 A0
-CreativeComputerEngineeringDesign 3.0 A+
-AssemblyLanguage 3.0 A+
-InternetProgramming 3.0 B0
-ApplicationProgramminginJava 3.0 A0
-SystemProgramming 3.0 B0
-OperatingSystem 3.0 B0
-WirelessCommunicationsandNetworking 3.0 C+
-LogicCircuits 3.0 B0
-DataStructure 4.0 A+
-MicroprocessorApplication 3.0 B+
-EmbeddedSoftware 3.0 C0
-ComputerSecurity 3.0 D+
-Database 3.0 C+
-Algorithm 3.0 B0
-CapstoneDesigninCSE 3.0 B+
-CompilerDesign 3.0 D0
-ProblemSolving 4.0 P
+12
+bnb2011 chansol
+chansol chogahui05
+chogahui05 jthis
+jthis ChongChong
+jthis jyheo98
+jyheo98 lms0806
+lms0806 pichulia
+pichulia pjshwa
+pjshwa r4pidstart
+r4pidstart swoon
+swoon tony9402
+tony9402 bnb2011
