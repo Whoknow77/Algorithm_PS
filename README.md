@@ -73,3 +73,4 @@ const [n, input] = fs.readFileSync("/dev/stdin").toString().trim().split("\n");
 
 - ### [심화 1](./Baekjoon/intense/README.md)
 - ### [심화 2](./Baekjoon/intense2/README.md)
+- ### [큐, 덱](./Baekjoon/queue,deque/README.md)
