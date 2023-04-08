@@ -71,7 +71,10 @@ const fs = require("fs");
 const [n, input] = fs.readFileSync("/dev/stdin").toString().trim().split("\n");
 ```
 
+## 단계별로 풀어보기
+
 - ### [심화 1](./Baekjoon/intense/README.md)
 - ### [심화 2](./Baekjoon/intense2/README.md)
 - ### [큐, 덱](./Baekjoon/queue,deque/README.md)
 - ### [재귀](./Baekjoon/recursive/README.md)
+- ### [정렬](./Baekjoon/sort/README.md)
