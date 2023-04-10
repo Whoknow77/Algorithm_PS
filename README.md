@@ -78,3 +78,4 @@ const [n, input] = fs.readFileSync("/dev/stdin").toString().trim().split("\n");
 - ### [큐, 덱](./Baekjoon/queue,deque/README.md)
 - ### [재귀](./Baekjoon/recursive/README.md)
 - ### [정렬](./Baekjoon/sort/README.md)
+- ### [구간 합 구하기](./Baekjoon/partsum/README.md)
