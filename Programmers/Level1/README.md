@@ -82,3 +82,4 @@
 |            [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)             | 2022/03/22 | [바로가기](./161989.js) |  ⚡  |
 |            [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)            | 2022/03/23 | [바로가기](./172928.js) |  ✔️  |
 |            [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)            | 2022/04/02 | [바로가기](./176963.js) |  ✔️  |
+|           [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)           | 2022/04/24 | [바로가기](./178871.js) |  ⚡  |
