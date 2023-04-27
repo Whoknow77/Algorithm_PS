@@ -1,45 +1,42 @@
-function solution(arr, queries) {
-  const answer = [];
-  queries.forEach((item) => {
-    const [s, e, k] = item;
-    let flag = false;
-    let min = 10000000;
-    for (let i = s; i <= e; i++) {
-      if (arr[i] > k) {
-        if (min > arr[i]) {
-          min = arr[i];
-        }
-        flag = true;
-      }
+function solution(n) {
+  answer = [];
+  let i = 0,
+    j = 0;
+  for (let i = 0; i < n; i++) {
+    const arr = [];
+    for (let j = 0; j < n; j++) {
+      arr.push(0);
     }
-    if (!flag) {
-      answer.push(-1);
-    } else {
-      answer.push(min);
+    answer.push(arr);
+  }
+  let num = 1;
+
+  while (num <= n * n) {
+    while (j + 1 < n && answer[i][j + 1] === 0) {
+      j++;
+      answer[i][j] = num;
+      num++;
     }
-  });
+
+    while (i + 1 < n && answer[i + 1][j] === 0) {
+      i++;
+      answer[i][j] = num;
+      num++;
+    }
+
+    while (j - 1 >= 0 && answer[i][j - 1] === 0) {
+      j--;
+      answer[i][j] = num;
+      num++;
+    }
+
+    while (i - 1 >= 0 && answer[i - 1][j] === 0) {
+      i--;
+      answer[i][j] = num;
+      num++;
+    }
+  }
+
   return answer;
 }
-
-function solution(arr, queries) {
-  return queries.map(([s, e, k]) => {
-    let result = -1;
-    for (let i = s; i <= e; i += 1) {
-      const v = arr[i];
-      if (v <= k) continue;
-      result = result === -1 ? v : Math.min(result, v);
-    }
-    return result;
-  });
-}
-
-console.log(
-  solution(
-    [0, 1, 2, 4, 3],
-    [
-      [0, 4, 2],
-      [0, 3, 2],
-      [0, 2, 2],
-    ]
-  )
-);
+console.log(solution(4));
