@@ -8,3 +8,4 @@
 | [숫자 카드 2](https://www.acmicpc.net/problem/10816) | 2023/04/13 | [바로가기](./10816.js) |  ✔️  |   S4   |
 | [랜선 자르기](https://www.acmicpc.net/problem/1654)  | 2023/05/06 | [바로가기](./1654.js)  |  ✔️  |   S2   |
 | [나무 자르기](https://www.acmicpc.net/problem/2805)  | 2023/05/06 | [바로가기](./2805.js)  |  ✔️  |   S2   |
+| [공유기 설치](https://www.acmicpc.net/problem/2110)  | 2023/05/07 | [바로가기](./2110.js)  |  ✔️  |   G4   |
