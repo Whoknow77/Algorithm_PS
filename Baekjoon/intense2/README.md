@@ -7,3 +7,4 @@
 | [인사성 밝은 곰곰이](https://www.acmicpc.net/problem/25192) | 2023/04/03 | [바로가기](./25192.js) |  ✔️  |   S4   |
 | [붙임성 좋은 총총이](https://www.acmicpc.net/problem/26069) | 2023/04/03 | [바로가기](./26069.js) |  ✔️  |   S4   |
 |       [통계학](https://www.acmicpc.net/problem/2108)        | 2023/04/04 | [바로가기](./2108.js)  |  ✔️  |   S3   |
+|        [약수](https://www.acmicpc.net/problem/1037)         | 2023/05/14 | [바로가기](./1037.js)  |  ⚡  |   S3   |

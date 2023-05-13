@@ -82,3 +82,4 @@ const [n, input] = fs.readFileSync("/dev/stdin").toString().trim().split("\n");
 - ### [구간 합 구하기](./Baekjoon/partsum/README.md)
 - ### [이분 탐색](./Baekjoon/binarysearch/README.md)
 - ### [집합과 맵](./Baekjoon/map/README.md)
+- ### [백트래킹](./Baekjoon/backtracking/README.md)
