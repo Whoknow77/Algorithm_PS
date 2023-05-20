@@ -2,13 +2,12 @@ const fs = require("fs");
 const filePath = process.platform === "linux" ? "/dev/stdin" : "./input.txt";
 const input = fs.readFileSync(filePath).toString().trim().split("\n");
 const n = input.shift();
-const numbers = input.shift().split(' ').map(Number);
-const operators = input.shift().split(' ').map(Number);
-
+const numbers = input.shift().split(" ").map(Number);
+const operators = input.shift().split(" ").map(Number);
 
 let max = -Infinity;
 let min = Infinity;
- 
+
 function operation(num1, num2, operator) {
   switch (operator) {
     case 0:
@@ -23,13 +22,13 @@ function operation(num1, num2, operator) {
       return result;
   }
 }
- 
+
 function dfs(index, result, operators) {
   if (index === numbers.length) {
     max = Math.max(max, result);
     min = Math.min(min, result);
   }
- 
+
   for (let i = 0; i < 4; i++) {
     if (operators[i] > 0) {
       const newOpers = [...operators];
@@ -38,7 +37,6 @@ function dfs(index, result, operators) {
     }
   }
 }
-
 
 dfs(1, numbers[0], operators);
 console.log(max ? max : 0);
