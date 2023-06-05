@@ -2,9 +2,9 @@ function solution(s) {
   const stack = [];
   for (let i = 0; i < s.length; i++) {
     if (stack.length === 0 || stack[0] != s[i]) {
-      stack.unshift(s[i]);
+      stack.push(s[i]);
     } else {
-      stack.shift();
+      stack.pop();
     }
   }
   return stack.length ? 0 : 1;
@@ -12,4 +12,4 @@ function solution(s) {
 
 console.log(solution("cdcd"));
 
-// unshift를 하여 맨앞으로 넣고, 뺄때는 shift으로 뺀다.
+// push와 pop으로 구현하는 것이 더 효율 적임 스택은
