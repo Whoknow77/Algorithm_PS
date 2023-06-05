@@ -13,4 +13,5 @@
 |   [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)    | 2023/05/30 | [바로가기](./70129.js) |  ✔️  |
 |       [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)       | 2023/05/31 | [바로가기](./12924.js) |  ✔️  |
 |      [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)       | 2023/05/31 | [바로가기](./12911.js) |  ✔️  |
-|          [재귀](https://school.programmers.co.kr/learn/courses/30/lessons/12945)           | 2023/05/31 | [바로가기](./12945.js) |  ✔️  |
+|       [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)       | 2023/05/31 | [바로가기](./12945.js) |  ✔️  |
+|     [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)     | 2023/06/05 | [바로가기](./12973.js) |  ⚡  |

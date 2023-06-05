@@ -1,13 +1,11 @@
-function solution(n) {
-  let arr = [0, 1];
-  function fib(n) {
-    if (arr[n] !== undefined) {
-      return arr[n];
+function solution(s) {
+  while (s.length) {
+    for (let i = 0; i < s.length - 1; i++) {
+      if (s[i - 1] === s[i]) {
+        s.slice(i - 1, 2);
+      }
     }
-    arr[n] = fib(n - 1) + fib(n - 2);
-    return arr[n];
   }
-  return fib(n);
+  return 1;
 }
-
-console.log(solution(10));
+console.log(solution("baabaa"));
