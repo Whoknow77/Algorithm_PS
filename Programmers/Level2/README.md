@@ -16,3 +16,4 @@
 |       [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)       | 2023/05/31 | [바로가기](./12945.js) |  ✔️  |
 |     [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)     | 2023/06/05 | [바로가기](./12973.js) |  ⚡  |
 |      [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)      | 2023/06/07 | [바로가기](./12981.js) |  ✔️  |
+|          [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)           | 2023/06/08 | [바로가기](./42842.js) |  ⚡  |
