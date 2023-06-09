@@ -18,5 +18,3 @@ function solution(brown, yellow) {
   }
   return answer;
 }
-
-console.log(solution(24, 24));
