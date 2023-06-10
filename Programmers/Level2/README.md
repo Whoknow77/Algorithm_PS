@@ -19,3 +19,5 @@
 |           [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)            | 2023/06/08 | [바로가기](./42842.js)  |  ⚡  |
 |          [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)          | 2023/06/09 | [바로가기](./42747.js)  |  ⚡  |
 | [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | 2023/06/09 | [바로가기](./131701.js) |  ✔️  |
+|       [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)       | 2023/06/10 | [바로가기](./76502.js)  |  ✔️  |
+|        [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)         | 2023/06/10 | [바로가기](./138476.js) |  ⚡  |
