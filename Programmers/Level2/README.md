@@ -21,3 +21,5 @@
 | [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | 2023/06/09 | [바로가기](./131701.js) |  ✔️  |
 |       [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)       | 2023/06/10 | [바로가기](./76502.js)  |  ✔️  |
 |        [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)         | 2023/06/10 | [바로가기](./138476.js) |  ⚡  |
+|         [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)         | 2023/06/10 | [바로가기](./12914.js)  |  ⚡  |
+|     [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)      | 2023/06/11 | [바로가기](./12953.js)  |  ✔️  |

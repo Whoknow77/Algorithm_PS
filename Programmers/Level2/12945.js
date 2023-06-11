@@ -1,11 +1,12 @@
-function solution(s) {
-  while (s.length) {
-    for (let i = 0; i < s.length - 1; i++) {
-      if (s[i - 1] === s[i]) {
-        s.slice(i - 1, 2);
-      }
-    }
+function getFibonacci(n) {
+  let fNum = [0, 1];
+  for (let i = 2; i <= n; i++) {
+    fNum[i] = (fNum[i - 1] + fNum[i - 2]) % 1234567;
   }
-  return 1;
+  return fNum[n];
 }
-console.log(solution("baabaa"));
+
+function solution(n) {
+  const answer = getFibonacci(n);
+  return answer;
+}
