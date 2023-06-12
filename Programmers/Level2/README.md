@@ -23,3 +23,4 @@
 |        [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)         | 2023/06/10 | [바로가기](./138476.js) |  ⚡  |
 |         [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)         | 2023/06/10 | [바로가기](./12914.js)  |  ⚡  |
 |     [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)      | 2023/06/11 | [바로가기](./12953.js)  |  ✔️  |
+|         [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)          | 2023/06/12 | [바로가기](./42885.js)  |  ⚡  |
