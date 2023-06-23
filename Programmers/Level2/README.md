@@ -24,3 +24,5 @@
 |         [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)         | 2023/06/10 | [바로가기](./12914.js)  |  ⚡  |
 |     [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)      | 2023/06/11 | [바로가기](./12953.js)  |  ✔️  |
 |         [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)          | 2023/06/12 | [바로가기](./42885.js)  |  ⚡  |
+|     [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)      | 2023/06/23 | [바로가기](./12980.js)  |  ✔️  |
+|        [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)        | 2023/06/23 | [바로가기](./12985.js)  |  ✔️  |
