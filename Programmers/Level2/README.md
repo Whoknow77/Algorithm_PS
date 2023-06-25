@@ -28,3 +28,6 @@
 |        [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)        | 2023/06/23 | [바로가기](./12985.js)  |  ✔️  |
 |      [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)      | 2023/06/24 | [바로가기](./87390.js)  |  ⚡  |
 |        [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)        | 2023/06/24 | [바로가기](./12949.js)  |  ⚡  |
+|           [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)            | 2023/06/25 | [바로가기](./17680.js)  |  ⚡  |
+|           [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)            | 2023/06/25 | [바로가기](./42578.js)  |  ⚡  |
+|         [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)          | 2023/06/25 | [바로가기](./42586.js)  |  ⚡  |
