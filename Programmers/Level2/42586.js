@@ -9,23 +9,38 @@ function solution(progresses, speeds) {
     }
     arr.push(count);
   });
-  let lastitem = 100;
+  let lastitem = arr[0];
   let sum = 0;
   arr.forEach((item, index) => {
     if (lastitem >= item) {
       sum++;
-      if (index === progresses.length - 1) {
-        answer.push(sum);
-      }
     } else {
       answer.push(sum);
       sum = 1;
-      if (index === progresses.length - 1) {
-        answer.push(sum);
-      }
+      lastitem = item;
     }
-    lastitem = item;
   });
+  answer.push(sum);
+  return answer;
+}
+
+function solution(progresses, speeds) {
+  let answer = [0];
+  let days = progresses.map((progress, index) =>
+    Math.ceil((100 - progress) / speeds[index])
+  );
+  let maxDay = days[0];
+  days;
+
+  for (let i = 0, j = 0; i < days.length; i++) {
+    if (days[i] <= maxDay) {
+      answer[j] += 1;
+    } else {
+      maxDay = days[i];
+      answer[++j] = 1;
+    }
+  }
+
   return answer;
 }
 
