@@ -31,3 +31,4 @@
 |           [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)            | 2023/06/25 | [바로가기](./17680.js)  |  ⚡  |
 |           [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)            | 2023/06/25 | [바로가기](./42578.js)  |  ⚡  |
 |         [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)          | 2023/06/26 | [바로가기](./42586.js)  |  ✔️  |
+|        [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)         | 2023/06/27 | [바로가기](./131127.js) |  ✔️  |
