@@ -33,3 +33,6 @@
 |         [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)          | 2023/06/26 | [바로가기](./42586.js)  |  ✔️  |
 |        [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)         | 2023/06/27 | [바로가기](./131127.js) |  ✔️  |
 |         [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)          | 2023/06/28 | [바로가기](./42587.js)  |  ✔️  |
+|          [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)           | 2023/06/30 | [바로가기](./87946.js)  |  ⚡  |
+|         [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)         | 2023/06/30 | [바로가기](./43165.js)  |  ⚡  |
+|         [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)          | 2023/07/03 | [바로가기](./12913.js)  |  ⚡  |
