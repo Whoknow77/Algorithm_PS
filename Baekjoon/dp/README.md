@@ -8,4 +8,5 @@
 |     [RGB거리](https://www.acmicpc.net/problem/1149)      | 2023/07/05 | [바로가기](./1149.js)  |  ✔️  |   S1   |
 |    [1로 만들기](https://www.acmicpc.net/problem/1463)    | 2023/07/06 | [바로가기](./1463.js)  |  ⚡  |   S3   |
 | [신나는 함수 실행](https://www.acmicpc.net/problem/9184) | 2023/07/08 | [바로가기](./9184.js)  |  ⚡  |   S2   |
-|      [연속합](https://www.acmicpc.net/problem/1912)      | 2023/07/08 | [바로가기](./1912.js)  |  ⚡  |   S2   |
+|      [연속합](https://www.acmicpc.net/problem/1912)      | 2023/07/10 | [바로가기](./1912.js)  |  ⚡  |   S2   |
+|   [포도주 시식](https://www.acmicpc.net/problem/2156)    | 2023/07/10 | [바로가기](./2156.js)  |  ⚡  |   S1   |
