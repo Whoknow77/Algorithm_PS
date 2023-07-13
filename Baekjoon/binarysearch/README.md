@@ -10,3 +10,4 @@
 |          [나무 자르기](https://www.acmicpc.net/problem/2805)          | 2023/05/06 | [바로가기](./2805.js)  |  ✔️  |   S2   |
 |          [공유기 설치](https://www.acmicpc.net/problem/2110)          | 2023/05/07 | [바로가기](./2110.js)  |  ✔️  |   G4   |
 | [가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015) | 2023/05/08 | [바로가기](./12015.js) |  ⚡  |   G2   |
+| [가장 긴 증가하는 부분 수열 3](https://www.acmicpc.net/problem/12738) | 2023/05/08 | [바로가기](./12738.js) |  ✔️  |   G2   |
