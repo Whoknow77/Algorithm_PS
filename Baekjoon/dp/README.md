@@ -15,3 +15,5 @@
 | [가장 큰 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)  | 2023/07/13 | [바로가기](./11722.js) |  ✔️  |   S2   |
 | [가장 긴 증가하는 부분 수열4](https://www.acmicpc.net/problem/14002) | 2023/07/13 | [바로가기](./14002.js) |  ⚡  |   G4   |
 | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)  | 2023/07/15 | [바로가기](./11054.js) |  ⚡  |   G4   |
+|        [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)        | 2023/07/16 | [바로가기](./9095.js)  |  ⚡  |   S3   |
+|         [계단 오르기](https://www.acmicpc.net/problem/2579)          | 2023/07/16 | [바로가기](./2579.js)  |  ⚡  |   S3   |
