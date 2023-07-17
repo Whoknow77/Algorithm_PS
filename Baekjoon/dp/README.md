@@ -17,3 +17,4 @@
 | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)  | 2023/07/15 | [바로가기](./11054.js) |  ⚡  |   G4   |
 |        [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)        | 2023/07/16 | [바로가기](./9095.js)  |  ⚡  |   S3   |
 |         [계단 오르기](https://www.acmicpc.net/problem/2579)          | 2023/07/16 | [바로가기](./2579.js)  |  ⚡  |   S3   |
+|         [2×n 타일링](https://www.acmicpc.net/problem/11726)          | 2023/07/17 | [바로가기](./11726.js) |  ✔️  |   S3   |
