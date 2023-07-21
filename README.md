@@ -85,3 +85,4 @@ const [n, input] = fs.readFileSync("/dev/stdin").toString().trim().split("\n");
 - ### [백트래킹](./Baekjoon/backtracking/README.md)
 - ### [브루트포스](./Baekjoon/bruteforce/README.md)
 - ### [DP](./Baekjoon/dp/README.md)
+- ### [그리디](./Baekjoon/greedy/README.md)
