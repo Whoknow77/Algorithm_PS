@@ -2,25 +2,25 @@ const fs = require("fs");
 const filePath = process.platform === "linux" ? "/dev/stdin" : "../input.txt";
 let input = fs.readFileSync(filePath).toString().trim().split("\n");
 
-class MaxHeap {
+class MinHeap {
+  // idx = 1에 min value 저장
   constructor() {
-    this.heap = [0];
+    this.heap = [Number.MAX_SAFE_INTEGER];
   }
 
-  // 삭제과정에서 부모가 자식보다 작은 경우 교체
-  isSmallerThanChildren(idx) {
+  // 삭제과정에서 부모가 자식보다 큰 경우 교체
+  isBiggerThanChildren(idx) {
+    // 자식이 존재하는지
     let leftChildIdx = 2 * idx;
     let rightChildIdx = 2 * idx + 1;
 
-    // 왼쪽 자식과 오른쪽 자식 노드가 모두 존재하는지 확인
     if (rightChildIdx < this.heap.length) {
       return (
-        this.heap[idx] < this.heap[leftChildIdx] ||
-        this.heap[idx] < this.heap[rightChildIdx]
+        this.heap[idx] > this.heap[leftChildIdx] ||
+        this.heap[idx] > this.heap[rightChildIdx]
       );
     } else if (leftChildIdx < this.heap.length) {
-      // 왼쪽 자식만 존재하는 경우
-      return this.heap[idx] < this.heap[leftChildIdx];
+      return this.heap[idx] > this.heap[leftChildIdx];
     } else {
       return false;
     }
@@ -36,11 +36,14 @@ class MaxHeap {
     let currentIdx = this.heap.length - 1;
     let parentIdx = Math.floor(currentIdx / 2);
 
-    while (currentIdx > 1 && this.heap[currentIdx] > this.heap[parentIdx]) {
+    while (currentIdx > 1 && this.heap[currentIdx] < this.heap[parentIdx]) {
       this.swapValue(currentIdx, parentIdx);
       currentIdx = parentIdx;
       parentIdx = Math.floor(currentIdx / 2);
     }
+  }
+  size() {
+    return this.heap.length;
   }
 
   remove() {
@@ -53,17 +56,19 @@ class MaxHeap {
       this.heap[1] = this.heap.pop();
       let currentIdx = 1;
 
-      // 우선 자식들이 부모보다 큰 경우
-      while (this.isSmallerThanChildren(currentIdx)) {
-        if (this.heap[2 * currentIdx + 1] > this.heap[2 * currentIdx]) {
-          // 왼쪽 오른쪽 둘다 존재하는 경우
-          this.swapValue(2 * currentIdx + 1, currentIdx);
-          currentIdx = 2 * currentIdx + 1;
+      // 우선 자식들이 부모보다 작은 경우
+      while (this.isBiggerThanChildren(currentIdx)) {
+        let leftChildIdx = 2 * currentIdx;
+        let rightChildIdx = 2 * currentIdx + 1;
+        let smallIdx;
+        if (this.heap[rightChildIdx] < this.heap[leftChildIdx]) {
+          smallIdx = rightChildIdx;
         } else {
-          // 왼쪽만 존재하는 경우
-          this.swapValue(2 * currentIdx, currentIdx);
-          currentIdx = 2 * currentIdx;
+          smallIdx = leftChildIdx;
         }
+
+        this.swapValue(smallIdx, currentIdx);
+        currentIdx = smallIdx;
       }
 
       return removedVal;
@@ -71,16 +76,22 @@ class MaxHeap {
   }
 }
 
-const pq = new MaxHeap();
+const pq = new MinHeap();
+
 const N = Number(input.shift());
+
 const arr = input.map(Number);
 
 const answer = [];
 for (let i = 0; i < N; i++) {
   if (arr[i] > 0) {
     pq.insert(arr[i]);
-  } else {
-    answer.push(pq.remove());
   }
 }
-console.log(answer.join("\n"));
+let total = 0;
+while (pq.size() > 2) {
+  let sum = pq.remove() + pq.remove();
+  pq.insert(sum);
+  total += sum;
+}
+console.log(total);
