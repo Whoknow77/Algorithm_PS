@@ -36,3 +36,6 @@
 |          [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)           | 2023/06/30 | [바로가기](./87946.js)  |  ⚡  |
 |         [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)         | 2023/06/30 | [바로가기](./43165.js)  |  ⚡  |
 |         [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)          | 2023/07/03 | [바로가기](./12913.js)  |  ⚡  |
+|       [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)       | 2023/08/11 | [바로가기](./42577.js)  |  ✔️  |
+|         [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)         | 2023/08/11 | [바로가기](./84512.js)  |  ⚡  |
+|         [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)         | 2023/08/11 | [바로가기](./42839.js)  |  ⚡  |
