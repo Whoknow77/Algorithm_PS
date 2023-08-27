@@ -40,3 +40,4 @@
 |         [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)         | 2023/08/11 | [바로가기](./84512.js)  |  ⚡  |
 |         [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)         | 2023/08/11 | [바로가기](./42839.js)  |  ⚡  |
 |         [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)          | 2023/08/16 | [바로가기](./42584.js)  |  ⚡  |
+|         [스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)          | 2023/08/27 | [바로가기](./49993.js)  |  ✔️  |
