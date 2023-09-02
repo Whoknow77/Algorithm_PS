@@ -41,3 +41,4 @@
 |         [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)         | 2023/08/11 | [바로가기](./42839.js)  |  ⚡  |
 |         [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)          | 2023/08/16 | [바로가기](./42584.js)  |  ⚡  |
 |         [스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)          | 2023/08/27 | [바로가기](./49993.js)  |  ✔️  |
+|   [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)   | 2023/09/02 | [바로가기](./154539.js) |  ⚡  |
