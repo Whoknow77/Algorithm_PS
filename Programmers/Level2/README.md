@@ -43,3 +43,4 @@
 |         [스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)          | 2023/08/27 | [바로가기](./49993.js)  |  ✔️  |
 |   [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)   | 2023/09/02 | [바로가기](./154539.js) |  ⚡  |
 |    [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)     | 2023/09/03 | [바로가기](./42583.js)  |  ⚡  |
+|        [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/101628)        | 2023/09/26 | [바로가기](./101628.js) |  ⚡  |
