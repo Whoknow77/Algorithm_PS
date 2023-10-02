@@ -45,3 +45,4 @@
 |    [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)     | 2023/09/03 | [바로가기](./42583.js)  |  ⚡  |
 |        [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)         | 2023/09/26 | [바로가기](./42746.js)  |  ⚡  |
 |       [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)        | 2023/09/28 | [바로가기](./42883.js)  |  ⚡  |
+|          [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)          | 2023/10/02 | [바로가기](./12952.js)  |  ⚡  |
