@@ -1,8 +1,44 @@
-// 배열이 아니라 양방향 연결리스트로 풀어야 시간초과 안남
+// const fs = require("fs");
+// const filePath = process.platform === "linux" ? "/dev/stdin" : "../input.txt";
+// const input = fs.readFileSync(filePath).toString().trim().split("\n");
+// const N = Number(input.shift());
+// const arr = input[0].split(' ').map(Number)
+// const answer = [];
+// const index = Array.from({ length: N }, (_, i) => i + 1);
+// let cur = 0;
+// let target = arr.shift();
+// answer.push(index.shift()); // 1 터뜨리기
+
+
+// while(arr.length){
+//     // 음수 -> 끝을 앞으로 반복
+//     if (target < 0) {
+//         for (let i = 0; i < -target; i++){
+//             arr.unshift(arr.pop());
+//             index.unshift(index.pop());
+//         }
+
+//     }
+//     else {
+//         for (let i = 0; i < target-1; i++){
+//             arr.push(arr.shift());
+//             index.push(index.shift());
+//         }
+//     }
+
+//     target = arr.shift();
+//     answer.push(index.shift())
+// }
+// console.log(answer)
+
+// 덱 안써서 메모리 초과(unshift, shift)
+
+
 const fs = require("fs");
 const filePath = process.platform === "linux" ? "/dev/stdin" : "../input.txt";
 const input = fs.readFileSync(filePath).toString().trim().split("\n");
 const N = Number(input.shift());
+const arr = input[0].split(' ').map(Number)
 
 class Node {
 	constructor(item) {
@@ -106,48 +142,41 @@ class Deque {
 	isEmpty() {
 		return this.getSize() ? 0 : 1;
 	}
-
-	getFront() {
-		return this.getSize() ? this.head.item : -1;
-	}
-
-	getBack() {
-		return this.getSize() ? this.tail.item : -1
-	}
 }
 
-
-const deque = new Deque();
+const dequeue = new Deque();
+const indexdequeue = new Deque();
 const answer = [];
-
-for (let i = 0; i < input.length; i++){
-    const [a, b] = input[i].split(' ').map(Number);
-    switch(a){
-        case 1:
-            deque.pushFront(b);
-            break;
-        case 2:
-            deque.pushBack(b);
-            break;
-        case 3:
-            answer.push(deque.popFront());
-            break;
-        case 4:
-            answer.push(deque.popBack());
-            break;
-        case 5:
-            answer.push(deque.getSize());
-            break;
-        case 6:
-            answer.push(deque.isEmpty());
-            break;
-        case 7:
-            answer.push(deque.getFront())
-            break;
-        case 8:
-            answer.push(deque.getBack());
-            break;
-    }
+for (let i = 0; i < N; i++){
+    dequeue.pushBack(arr[i])
+    indexdequeue.pushBack(i+1)
 }
-console.log(answer.join('\n'))
 
+let target = dequeue.popFront();
+answer.push(indexdequeue.popFront()); // 1 터뜨리기
+
+
+while(dequeue.getSize()){
+    // 음수 -> 끝을 앞으로 반복
+    if (target < 0) {
+        for (let i = 0; i < -target; i++){
+            dequeue.pushFront(dequeue.popBack());
+            indexdequeue.pushFront(indexdequeue.popBack());
+        }
+
+    }
+    else {
+        for (let i = 0; i < target-1; i++){
+            dequeue.pushBack(dequeue.popFront());
+            indexdequeue.pushBack(indexdequeue.popFront());
+        }
+    }
+
+    target = dequeue.popFront();
+    answer.push(indexdequeue.popFront())
+}
+console.log(answer.join(' '))
+
+// 덱 구현했는데도 안됨.. 찾아보니 어떻게 풀어도 js는 메모리 초과 되는듯
+
+// 앞으로 js로 문제 풀 때 맞힌 사람 별로 없으면 의심해봐야함 --> 생각보다 중요함

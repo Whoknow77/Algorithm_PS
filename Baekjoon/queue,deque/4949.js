@@ -32,8 +32,8 @@ for (let i = 0; i < input.length-1; i++){
             }
         }
     }
-        if(stack.length===0){
-     answer.push('yes')   
+    if(stack.length===0){
+        answer.push('yes')   
     }
     else {
         answer.push('no')

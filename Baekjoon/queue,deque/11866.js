@@ -1,30 +1,24 @@
 const fs = require("fs");
 const filePath = process.platform === "linux" ? "/dev/stdin" : "../input.txt";
-let input = fs.readFileSync(filePath).toString().trim().split("\n");
-const N = Number(input.shift());
+const input = fs.readFileSync(filePath).toString().trim().split("\n");
+const [N, K] = input[0].split(' ').map(Number);
+const arr = [];
+const newArr = [];
+let idx = 0;
 
-const answer = [];
-
-for (let i = 0; i < N; i++){
-  let sum = 0;
-  // 개행 문자 빼야됨
-  for (let j = 0; j < input[i].length; j++){
-      if (input[i][j] === "(") {
-        sum++;
-    }
-      else {
-        sum--;
-        if (sum < 0) {
-          break;
-        }
-    }
-  }
-  if (sum===0) {
-    answer.push("YES")
-  }
-  else {
-    answer.push("NO")
-  }
+for(let i = 1; i<=N; i++){
+    arr[i] = i;
 }
 
-console.log(answer.join('\n'))
+arr.splice(0, 1);
+
+
+while(arr.length>0){
+
+  // 삭제할 인덱스 계산
+        idx = (idx + K -1) % arr.length; 
+        // 3 2 6
+        newArr.push(arr[idx]);
+        arr.splice(idx,1);
+    }
+console.log(`<${newArr.join(', ')}>`)
