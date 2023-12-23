@@ -9,3 +9,5 @@
 |    [바이러스](https://www.acmicpc.net/problem/2606)    | 2023/12/19 | [바로가기](./2606.js) |  ✔️  |   S3   |
 | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | 2023/12/21 | [바로가기](./2667.js) |  ✔️  |   S1   |
 |    [촌수계산](https://www.acmicpc.net/problem/2644)    | 2023/12/21 | [바로가기](./2644.js) |  ⚡  |   S1   |
+|     [토마토](https://www.acmicpc.net/problem/7576)     | 2023/12/23 | [바로가기](./7576.js) |  ⚡  |   G5   |
+|     [토마토](https://www.acmicpc.net/problem/7569)     | 2023/12/23 | [바로가기](./7569.js) |  ⚡  |   G5   |
