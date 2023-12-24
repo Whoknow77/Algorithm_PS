@@ -11,3 +11,4 @@
 |    [촌수계산](https://www.acmicpc.net/problem/2644)    | 2023/12/21 | [바로가기](./2644.js) |  ⚡  |   S1   |
 |     [토마토](https://www.acmicpc.net/problem/7576)     | 2023/12/23 | [바로가기](./7576.js) |  ⚡  |   G5   |
 |     [토마토](https://www.acmicpc.net/problem/7569)     | 2023/12/23 | [바로가기](./7569.js) |  ⚡  |   G5   |
+|   [섬의 개수](https://www.acmicpc.net/problem/4963)    | 2023/12/25 | [바로가기](./4963.js) |  ⚡  |   S2   |
