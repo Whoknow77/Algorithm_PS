@@ -13,3 +13,4 @@
 |     [토마토](https://www.acmicpc.net/problem/7569)     | 2023/12/23 | [바로가기](./7569.js) |  ⚡  |   G5   |
 |   [섬의 개수](https://www.acmicpc.net/problem/4963)    | 2023/12/25 | [바로가기](./4963.js) |  ✔️  |   S2   |
 |  [유기농 배추](https://www.acmicpc.net/problem/1012)   | 2023/01/19 | [바로가기](./1012.js) |  ✔️  |   S2   |
+|      [그림](https://www.acmicpc.net/problem/1926)      | 2023/01/20 | [바로가기](./1926.js) |  ✔️  |   S1   |
