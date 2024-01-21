@@ -17,3 +17,5 @@
 |    [숨바꼭질](https://www.acmicpc.net/problem/1697)    | 2023/01/20 | [바로가기](./1697.js) |  ✔️  |   S1   |
 | [나이트의 이동](https://www.acmicpc.net/problem/7562)  | 2023/01/21 | [바로가기](./7562.js) |  ✔️  |   S1   |
 |   [안전 영역](https://www.acmicpc.net/problem/2468)    | 2023/01/21 | [바로가기](./2468.js) |  ✔️  |   S1   |
+|   [스타트링크](https://www.acmicpc.net/problem/5014)   | 2023/01/22 | [바로가기](./5014.js) |  ✔️  |   S1   |
+|  [영역 구하기](https://www.acmicpc.net/problem/2583)   | 2023/01/22 | [바로가기](./2583.js) |  ✔️  |   S1   |
