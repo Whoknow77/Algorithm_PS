@@ -7,3 +7,4 @@
 | [알고리즘 수업 - 병합 정렬 1](https://www.acmicpc.net/problem/24060) | 2023/04/03 | [바로가기](./24060.js) |  ⚡  |   S4   |
 |         [재귀의 귀재](https://www.acmicpc.net/problem/25501)         | 2023/12/13 | [바로가기](./25501.js) |  ✔️  |   B2   |
 |             [곱셈](https://www.acmicpc.net/problem/1629)             | 2023/01/22 | [바로가기](./1629.js)  |  ⚡  |   S1   |
+|          [하노이탑](https://www.acmicpc.net/problem/11729)           | 2023/01/23 | [바로가기](./11729.js) |  ⚡  |   G5   |
