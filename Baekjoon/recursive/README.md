@@ -9,3 +9,5 @@
 |             [곱셈](https://www.acmicpc.net/problem/1629)             | 2023/01/22 | [바로가기](./1629.js)  |  ⚡  |   S1   |
 |          [하노이탑](https://www.acmicpc.net/problem/11729)           | 2023/01/23 | [바로가기](./11729.js) |  ⚡  |   G5   |
 |             [재귀](https://www.acmicpc.net/problem/1074)             | 2023/01/25 | [바로가기](./1074.js)  |  ⚡  |   S1   |
+|         [종이의 개수](https://www.acmicpc.net/problem/1780)          | 2023/01/26 | [바로가기](./1780.js)  |  ⚡  |   S2   |
+|           [쿼드트리](https://www.acmicpc.net/problem/1992)           | 2023/01/26 | [바로가기](./1992.js)  |  ⚡  |   S1   |
