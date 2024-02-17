@@ -7,9 +7,9 @@ const inputarr = input
 	.split(" ")
 	.map(Number)
 	.sort((a, b) => a - b);
-
 const arr = [];
 const answer = [];
+const isused = Array(n).fill(0);
 function BackTracking(k, l) {
 	if (k === m) {
 		answer.push(arr.join(" "));
@@ -17,14 +17,17 @@ function BackTracking(k, l) {
 	}
 
 	for (let i = l; i < n; i++) {
-		arr.push(inputarr[i]);
-		BackTracking(k + 1, i);
-		arr.pop();
+		if (!isused[i]) {
+			arr.push(inputarr[i]);
+			isused[i] = 1;
+			BackTracking(k + 1, i + 1);
+			arr.pop();
+			isused[i] = 0;
+		}
 	}
 }
-
 const Console = () => {
 	BackTracking(0, 0);
-	console.log(answer.join("\n"));
+	console.log([...new Set(answer)].join("\n"));
 };
 Console();

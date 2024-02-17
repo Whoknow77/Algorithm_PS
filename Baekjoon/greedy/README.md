@@ -13,3 +13,4 @@
 | [게임을 만든 동준이](https://www.acmicpc.net/problem/2847) | 2023/07/26 | [바로가기](./2847.js)  |  ✔️  |   S4   |
 |       [뒤집기](https://www.acmicpc.net/problem/1439)       | 2023/07/26 | [바로가기](./1439.js)  |  ✔️  |   S5   |
 |  [카드 합체 놀이](https://www.acmicpc.net/problem/15903)   | 2023/07/27 | [바로가기](./15903.js) |  ⚡  |   S1   |
+|    [강의실 배정](https://www.acmicpc.net/problem/11000)    | 2024/02/17 | [바로가기](./11000.js) |  ⚡  |   S1   |
