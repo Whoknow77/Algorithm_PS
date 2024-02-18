@@ -19,3 +19,5 @@
 | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | 2023/05/18 | [바로가기](./14888.js) |  ⚡  |   S3   |
 |  [스타트와 링크](https://www.acmicpc.net/problem/14889)  | 2023/05/20 | [바로가기](./14889.js) |  ✔️  |   S2   |
 |     [N-Queen](https://www.acmicpc.net/problem/9663)      | 2023/05/21 | [바로가기](./9663.js)  |  ⚡  |   G4   |
+|  [부분수열의 합](https://www.acmicpc.net/problem/1182)   | 2024/02/18 | [바로가기](./1182.js)  |  ✔️  |   S2   |
+|       [로또](https://www.acmicpc.net/problem/6603)       | 2024/02/18 | [바로가기](./6603.js)  |  ✔️  |   S2   |
