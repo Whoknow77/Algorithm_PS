@@ -15,3 +15,5 @@
 |  [카드 합체 놀이](https://www.acmicpc.net/problem/15903)   | 2023/07/27 | [바로가기](./15903.js) |  ⚡  |   S1   |
 |    [강의실 배정](https://www.acmicpc.net/problem/11000)    | 2024/02/17 | [바로가기](./11000.js) |  ⚡  |   S1   |
 |      [선 긋기](https://www.acmicpc.net/problem/6603)       | 2024/02/19 | [바로가기](./6603.js)  |  ✔️  |   G5   |
+|      [주유소](https://www.acmicpc.net/problem/13305)       | 2024/02/20 | [바로가기](./13305.js) |  ✔️  |   S3   |
+|     [줄 세우기](https://www.acmicpc.net/problem/7570)      | 2024/02/20 | [바로가기](./7570.js)  |  ⚡  |   G3   |
