@@ -8,18 +8,17 @@ for (let i = 0; i < n; i++) {
 	arr2.push(inputarr);
 }
 
-const dfs = (node, start, visited) => {
-	for (let i = 0; i < n; i++) {
-		if (!visited[i] && arr2[node][i]) {
-			visited[i] = 1;
-			arr2[start][i] = 1;
-			dfs(i, start);
+const arr = Array.from({ length: n }, () => []);
+for (let i = 0; i < n; i++) {
+	for (let j = 0; j < n; j++) {
+		for (let k = 0; k < n; k++) {
+			if (arr2[j][i] && arr2[i][k]) {
+				arr2[j][k] = 1;
+			}
 		}
 	}
-};
-
-for (let i = 0; i < n; i++) {
-	const visited = Array(n).fill(0);
-	dfs(i, i, visited);
 }
-console.log(arr2);
+
+for (let i = 0; i < arr2.length; i++) {
+	console.log(arr2[i].join(" "));
+}
