@@ -22,6 +22,8 @@ const bfs = (start) => {
 			visited[node] = 1;
 			bacon[start] += count++;
 			arr[node].forEach((v) => queue.push([v, count]));
+			console.log(queue);
+			console.log(bacon);
 		}
 	}
 };
