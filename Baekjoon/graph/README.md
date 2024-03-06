@@ -10,3 +10,4 @@
 |      [효율적인 해킹](https://www.acmicpc.net/problem/1325)       | 2024/03/01 | [바로가기](./1325.js)  |  ⚡  |   S1   |
 | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | 2024/03/02 | [바로가기](./1389.js)  |  ⚡  |   S1   |
 |        [숨바꼭질2](https://www.acmicpc.net/problem/12851)        | 2024/03/06 | [바로가기](./12851.js) |  ⚡  |   G4   |
+|         [회장뽑기](https://www.acmicpc.net/problem/2660)         | 2024/03/07 | [바로가기](./2660.js)  |  ✔️  |   G5   |
