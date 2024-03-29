@@ -84,3 +84,4 @@
 |            [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)            | 2023/04/02 | [바로가기](./176963.js) |  ✔️  |
 |           [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)           | 2023/04/24 | [바로가기](./178871.js) |  ⚡  |
 |            [붕대 감기](https://school.programmers.co.kr/learn/courses/30/lessons/250137)            | 2024/03/28 | [바로가기](./250137.js) |  ✔️  |
+|       [가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712)       | 2024/03/29 | [바로가기](./258712.js) |  ⚡  |
