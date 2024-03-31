@@ -17,3 +17,4 @@
 |      [선 긋기](https://www.acmicpc.net/problem/6603)       | 2024/02/19 | [바로가기](./6603.js)  |  ✔️  |   G5   |
 |      [주유소](https://www.acmicpc.net/problem/13305)       | 2024/02/20 | [바로가기](./13305.js) |  ✔️  |   S3   |
 |     [줄 세우기](https://www.acmicpc.net/problem/7570)      | 2024/02/20 | [바로가기](./7570.js)  |  ⚡  |   G3   |
+|   [공주님의 정원](https://www.acmicpc.net/problem/2457)    | 2024/03/31 | [바로가기](./2457.js)  |  ⚡  |   G3   |
