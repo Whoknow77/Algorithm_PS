@@ -18,3 +18,6 @@
 |      [주유소](https://www.acmicpc.net/problem/13305)       | 2024/02/20 | [바로가기](./13305.js) |  ✔️  |   S3   |
 |     [줄 세우기](https://www.acmicpc.net/problem/7570)      | 2024/02/20 | [바로가기](./7570.js)  |  ⚡  |   G3   |
 |   [공주님의 정원](https://www.acmicpc.net/problem/2457)    | 2024/03/31 | [바로가기](./2457.js)  |  ⚡  |   G3   |
+|      [수 묶기](https://www.acmicpc.net/problem/1744)       | 2024/04/06 | [바로가기](./1744.js)  |  ✔️  |   G4   |
+|  [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)   | 2024/04/06 | [바로가기](./1700.js)  |  ✔️  |   G1   |
+|        [택배](https://www.acmicpc.net/problem/8980)        | 2024/04/06 | [바로가기](./8980.js)  |  ⚡  |   G1   |
