@@ -16,3 +16,4 @@
 |     [queuestack](https://www.acmicpc.net/problem/24511)      | 2023/12/13 | [바로가기](./24511.js) |  ⚡  |   S3   |
 |          [탑](https://www.acmicpc.net/problem/2493)          | 2024/04/07 | [바로가기](./2493.js)  |  ⚡  |   G5   |
 |   [옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198)   | 2024/04/07 | [바로가기](./6198.js)  |  ⚡  |   G5   |
+|       [오큰수](https://www.acmicpc.net/problem/17298)        | 2024/04/07 | [바로가기](./17298.js) |  ✔️  |   G4   |
