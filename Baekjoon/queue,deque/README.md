@@ -14,3 +14,5 @@
 |        [덱 2](https://www.acmicpc.net/problem/28279)         | 2023/12/10 | [바로가기](./28279.js) |  ✔️  |   S4   |
 |    [풍선 터뜨리기](https://www.acmicpc.net/problem/2346)     | 2023/12/12 | [바로가기](./2346.js)  |  ⚡  |   S3   |
 |     [queuestack](https://www.acmicpc.net/problem/24511)      | 2023/12/13 | [바로가기](./24511.js) |  ⚡  |   S3   |
+|          [탑](https://www.acmicpc.net/problem/2493)          | 2024/04/07 | [바로가기](./2493.js)  |  ⚡  |   G5   |
+|   [옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198)   | 2024/04/07 | [바로가기](./6198.js)  |  ⚡  |   G5   |

@@ -35,7 +35,26 @@
 
 ## 백준
 
-#### 입력
+### 단계별로 풀어보기
+
+- ### [심화 1](./Baekjoon/intense/README.md)
+- ### [심화 2](./Baekjoon/intense2/README.md)
+- ### [스택, 큐, 덱](./Baekjoon/queue,deque/README.md)
+- ### [재귀](./Baekjoon/recursive/README.md)
+- ### [정렬](./Baekjoon/sort/README.md)
+- ### [구간 합 구하기](./Baekjoon/partsum/README.md)
+- ### [이분 탐색](./Baekjoon/binarysearch/README.md)
+- ### [집합과 맵](./Baekjoon/map/README.md)
+- ### [백트래킹](./Baekjoon/backtracking/README.md)
+- ### [브루트포스](./Baekjoon/bruteforce/README.md)
+- ### [DP](./Baekjoon/dp/README.md)
+- ### [그리디](./Baekjoon/greedy/README.md)
+- ### [우선순위 큐](./Baekjoon/priority/README.md)
+- ### [연결리스트](./Baekjoon/linkedlist/README.md)
+- ### [dfs/bfs](./Baekjoon/dfsbfs/README.md)
+- ### [그래프](./Baekjoon/graph/README.md)
+
+### 입력
 
 ```js
 // 1. 입력값이 한 개일 때(한 줄)
@@ -73,22 +92,3 @@ const inputArr = input.trim().split(" ");
 const fs = require("fs");
 const [n, input] = fs.readFileSync("/dev/stdin").toString().trim().split("\n");
 ```
-
-## 단계별로 풀어보기
-
-- ### [심화 1](./Baekjoon/intense/README.md)
-- ### [심화 2](./Baekjoon/intense2/README.md)
-- ### [스택, 큐, 덱](./Baekjoon/queue,deque/README.md)
-- ### [재귀](./Baekjoon/recursive/README.md)
-- ### [정렬](./Baekjoon/sort/README.md)
-- ### [구간 합 구하기](./Baekjoon/partsum/README.md)
-- ### [이분 탐색](./Baekjoon/binarysearch/README.md)
-- ### [집합과 맵](./Baekjoon/map/README.md)
-- ### [백트래킹](./Baekjoon/backtracking/README.md)
-- ### [브루트포스](./Baekjoon/bruteforce/README.md)
-- ### [DP](./Baekjoon/dp/README.md)
-- ### [그리디](./Baekjoon/greedy/README.md)
-- ### [우선순위 큐](./Baekjoon/priority/README.md)
-- ### [연결리스트](./Baekjoon/linkedlist/README.md)
-- ### [dfs/bfs](./Baekjoon/dfsbfs/README.md)
-- ### [그래프](./Baekjoon/graph/README.md)
