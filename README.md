@@ -53,6 +53,7 @@
 - ### [연결리스트](./Baekjoon/linkedlist/README.md)
 - ### [dfs/bfs](./Baekjoon/dfsbfs/README.md)
 - ### [그래프](./Baekjoon/graph/README.md)
+- ### [해시](./Baekjoon/hash/README.md)
 
 ### 입력
 
