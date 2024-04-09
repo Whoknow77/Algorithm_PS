@@ -22,6 +22,7 @@ for (let i = 0; i < n; i++) {
 		memberMap.set(member, group);
 	}
 	startIndex += memberNumber + 2;
+	console.log(input, startIndex);
 }
 for (let i = startIndex; i < startIndex + m * 2; i += 2) {
 	const [target, quizNumber] = [input[i].trim(), input[i + 1].trim()];
