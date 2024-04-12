@@ -2,23 +2,44 @@ const fs = require("fs");
 const filePath = process.platform === "linux" ? "/dev/stdin" : "input.txt";
 const input = fs.readFileSync(filePath).toString().trim().split("\n");
 
-const [n, k] = input.shift().split(" ").map(Number);
-const arr = input[0].split(" ").map(Number);
-const count = {};
-let length = 0;
-let left = 0;
-let right = 0;
-while (right < n) {
-	while (count[arr[right]] === k) {
-		count[arr[left]]--;
-		left++;
+const [N, d, k, c] = input[0].split(" ").map(Number);
+const sushi = input.slice(1).map(Number);
+
+let maxCount = 0;
+let count = 0;
+const seq = sushi.slice(0, k).reduce((acc, v) => {
+	if (acc[v]) {
+		acc[v]++;
+	} else {
+		acc[v] = 1;
+		count++;
+	}
+	return acc;
+}, {});
+
+let i = 0;
+let j = k - 1;
+
+while (i < N) {
+	if (seq[sushi[i]] === 1) {
+		count--;
+	}
+	seq[sushi[i]]--;
+
+	i++;
+	j++;
+
+	if (j === N) {
+		j = 0;
 	}
 
-	length = Math.max(right - left + 1, length);
-	count[arr[right]] = (count[arr[right]] ?? 0) + 1;
-	right++;
+	if (seq[sushi[j]]) {
+		seq[sushi[j]]++;
+	} else {
+		seq[sushi[j]] = 1;
+		count++;
+	}
+	maxCount = Math.max(maxCount, count + !seq[c]);
 }
-console.log(length);
 
-// 8 2
-// 1 1 1 2 2 3 3 3
+console.log(maxCount);
