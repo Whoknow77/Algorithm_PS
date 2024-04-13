@@ -47,3 +47,4 @@
 |       [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)        | 2023/09/28 | [바로가기](./42883.js)  |  ⚡  |
 |          [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)          | 2023/10/02 | [바로가기](./12952.js)  |  ⚡  |
 |      [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)      | 2024/01/22 |  [바로가기](./1844.js)  |  ✔️  |
+|  [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)   | 2024/04/12 | [바로가기](./178870.js) |  ✔️  |
