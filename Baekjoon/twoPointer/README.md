@@ -12,3 +12,5 @@
 | [가장 긴 짝수 연속한 부분 수열 (large)](https://www.acmicpc.net/problem/22862) | 2024/04/12 | [바로가기](./22862.js) |  ✔️  |   G5   |
 |             [소수의 연속합](https://www.acmicpc.net/problem/1644)              | 2024/04/13 | [바로가기](./1644.js)  |  ✔️  |   G3   |
 |          [같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366)          | 2024/04/13 | [바로가기](./20366.js) |  ⚡  |   G3   |
+|              [구간 자르기](https://www.acmicpc.net/problem/2283)               | 2024/04/14 | [바로가기](./2283.js)  |  ⚡  |   G2   |
+|               [대표 선수](https://www.acmicpc.net/problem/2461)                | 2024/04/14 | [바로가기](./2461.js)  |  ⚡  |   G1   |
