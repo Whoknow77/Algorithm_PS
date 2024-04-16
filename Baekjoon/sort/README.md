@@ -10,3 +10,6 @@
 | [좌표 정렬하기](https://www.acmicpc.net/problem/11650)  | 2023/05/25 | [바로가기](./11650.js) |  ✔️  |   S5   |
 | [좌표 정렬하기2](https://www.acmicpc.net/problem/11651) | 2023/05/25 | [바로가기](./11651.js) |  ✔️  |   S5   |
 |  [소트인사이드](https://www.acmicpc.net/problem/1427)   | 2023/05/25 | [바로가기](./1427.js)  |  ✔️  |   S5   |
+| [수 정렬하기 4](https://www.acmicpc.net/problem/11931)  | 2024/04/16 | [바로가기](./11931.js) |  ✔️  |   S5   |
+| [수 정렬하기 5](https://www.acmicpc.net/problem/15688)  | 2024/04/16 | [바로가기](./15688.js) |  ✔️  |   S5   |
+|      [카드](https://www.acmicpc.net/problem/11652)      | 2024/04/16 | [바로가기](./11652.js) |  ✔️  |   S4   |
