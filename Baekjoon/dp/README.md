@@ -22,3 +22,4 @@
 |        [피보나치 함수](https://www.acmicpc.net/problem/1003)         | 2023/07/20 | [바로가기](./1003.js)  |  ⚡  |   S3   |
 |        [2×n 타일링 2](https://www.acmicpc.net/problem/11727)         | 2023/07/20 | [바로가기](./11727.js) |  ✔️  |   S3   |
 |            [이친수](https://www.acmicpc.net/problem/2193)            | 2024/04/19 | [바로가기](./2193.js)  |  ✔️  |   S3   |
+|            [퇴사](https://www.acmicpc.net/problem/14501)             | 2024/04/20 | [바로가기](./14501.js) |  ⚡  |   S3   |
