@@ -1,20 +1,20 @@
-function solution(n, k, arr, m) {
-  let answer = 0;
-  function DFS(L, s, sum) {
-    if (L === k) {
-      if (sum % m === 0) {
-        answer++;
-      }
-    } else {
-      for (let i = s; i <= n; i++) {
-        DFS(L + 1, i + 1, sum + arr[i]);
-      }
-    }
-  }
+const solution = (n, k, arr, m) => {
+	let answer = 0
+	const dfs = (cur_length, cur_idx, cur_sum) => {
+		if (cur_length === k) {
+			if (cur_sum % m === 0) {
+				answer += 1
+			}
+		} else {
+			for (let i = cur_idx; i < n; i++) {
+				dfs(cur_length + 1, i + 1, cur_sum + arr[i])
+			}
+		}
+	}
 
-  DFS(0, 0, 0);
-  return answer;
+	dfs(0, 0, 0)
+	return answer
 }
 
-let arr = [2, 4, 5, 8, 12];
-console.log(solution(5, 3, arr, 6));
+let arr = [2, 4, 5, 8, 12]
+console.log(solution(5, 3, arr, 6))
