@@ -48,3 +48,6 @@
 |          [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)          | 2023/10/02 | [바로가기](./12952.js)  |  ⚡  |
 |      [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)      | 2024/01/22 |  [바로가기](./1844.js)  |  ✔️  |
 |  [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)   | 2024/04/12 | [바로가기](./178870.js) |  ✔️  |
+|     [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)      | 2024/05/25 | [바로가기](./132265.js) |  ⚡  |
+|       [2 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900)        | 2024/05/25 | [바로가기](./12900.js)  |  ✔️  |
+|      [124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899)      | 2024/05/25 | [바로가기](./12899.js)  |  ⚡  |
