@@ -54,3 +54,5 @@
 |   [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)    | 2024/05/31 | [바로가기](./86971.js)  |  ✔️  |
 |    [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)     | 2024/05/31 | [바로가기](./148653.js) |  ⚡  |
 |        [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)         | 2024/05/31 | [바로가기](./152996.js) |  ⚡  |
+|        [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)         | 2024/06/01 | [바로가기](./42888.js)  |  ✔️  |
+|   [[1차] 뉴스클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)    | 2024/06/01 | [바로가기](./17677.js)  |  ✔️  |
