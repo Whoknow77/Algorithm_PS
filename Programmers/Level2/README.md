@@ -51,3 +51,6 @@
 |     [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)      | 2024/05/25 | [바로가기](./132265.js) |  ⚡  |
 |       [2 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900)        | 2024/05/25 | [바로가기](./12900.js)  |  ✔️  |
 |      [124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899)      | 2024/05/25 | [바로가기](./12899.js)  |  ⚡  |
+|   [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)    | 2024/05/31 | [바로가기](./86971.js)  |  ✔️  |
+|    [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)     | 2024/05/31 | [바로가기](./148653.js) |  ⚡  |
+|        [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)         | 2024/05/31 | [바로가기](./152996.js) |  ⚡  |
