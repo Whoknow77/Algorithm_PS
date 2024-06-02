@@ -56,3 +56,5 @@
 |        [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)         | 2024/05/31 | [바로가기](./152996.js) |  ⚡  |
 |        [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)         | 2024/06/01 | [바로가기](./42888.js)  |  ✔️  |
 |   [[1차] 뉴스클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)    | 2024/06/01 | [바로가기](./17677.js)  |  ✔️  |
+|           [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)            | 2024/06/02 | [바로가기](./17684.js)  |  ✔️  |
+|     [[3차] n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)      | 2024/06/02 | [바로가기](./17687.js)  |  ⚡  |
