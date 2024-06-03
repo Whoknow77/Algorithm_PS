@@ -58,3 +58,5 @@
 |   [[1차] 뉴스클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)    | 2024/06/01 | [바로가기](./17677.js)  |  ✔️  |
 |           [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)            | 2024/06/02 | [바로가기](./17684.js)  |  ✔️  |
 |     [[3차] n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)      | 2024/06/02 | [바로가기](./17687.js)  |  ⚡  |
+|         [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)         | 2024/06/03 | [바로가기](./49994.js)  |  ⚡  |
+|        [택배 상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)         | 2024/06/03 | [바로가기](./131704.js) |  ✔️  |
