@@ -60,3 +60,5 @@
 |     [[3차] n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)      | 2024/06/02 | [바로가기](./17687.js)  |  ⚡  |
 |         [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)         | 2024/06/03 | [바로가기](./49994.js)  |  ⚡  |
 |        [택배 상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)         | 2024/06/03 | [바로가기](./131704.js) |  ✔️  |
+|     [숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)     | 2024/06/04 | [바로가기](./135807.js) |  ✔️  |
+|     [**줄 서는 방법**](https://school.programmers.co.kr/learn/courses/30/lessons/12936)      | 2024/06/04 | [바로가기](./12936.js)  |  ⚡  |
