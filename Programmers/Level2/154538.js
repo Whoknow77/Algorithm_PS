@@ -1,39 +1,39 @@
 function solution(x, y, n) {
 	const visited = Array(1000001).fill(0)
-	visited[x] = 1
+	visited[y] = 1
 	const bfs = (start) => {
 		const queue = [[start, 0]]
 		while (queue.length > 0) {
 			console.log(queue)
 			const [cur, count] = queue.shift()
-			if (cur > y) {
-				return -1
-			}
-			if (cur === y) {
+			if (cur === x) {
 				return count
 			} else {
-				if (cur * 3 === y || cur * 2 === y || cur + n === y) {
+				const target1 = cur / 3
+				const target2 = cur / 2
+				const target3 = cur - n
+				if (target1 === x || target2 === x || target3 === x) {
 					return count + 1
 				}
-				if (cur * 3 <= y && visited[cur * 3] === 0) {
-					queue.push([cur * 3, count + 1])
-					visited[cur * 3] = 1
+				if (target1 >= x && visited[target1] === 0) {
+					queue.push([target1, count + 1])
+					visited[target1] = 1
 				}
-				if (cur * 2 <= y && visited[cur * 2] === 0) {
-					queue.push([cur * 2, count + 1])
-					visited[cur * 2] = 1
+				if (target2 >= x && visited[target2] === 0) {
+					queue.push([target2, count + 1])
+					visited[target2] = 1
 				}
 
-				if (cur + n <= y && visited[cur + n] === 0) {
-					queue.push([cur + n, count + 1])
-					visited[cur + n] = 1
+				if (target3 >= x && visited[target3] === 0) {
+					queue.push([target3, count + 1])
+					visited[target3] = 1
 				}
 			}
 		}
 		return -1
 	}
 
-	const answer = bfs(x)
+	const answer = bfs(y)
 	return answer
 }
 
