@@ -65,3 +65,4 @@
 |        [미로 탈출 ](https://school.programmers.co.kr/learn/courses/30/lessons/159993)        | 2024/06/05 | [바로가기](./159993.js) |  ⚡  |
 |      [숫자 변환하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/154538)      | 2024/06/05 | [바로가기](./154538.js) |  ✔️  |
 |      [주차 요금 계산 ](https://school.programmers.co.kr/learn/courses/30/lessons/92341)      | 2024/06/06 | [바로가기](./92341.js)  |  ✔️  |
+|       [메뉴 리뉴얼 ](https://school.programmers.co.kr/learn/courses/30/lessons/72411)        | 2024/06/07 | [바로가기](./72411.js)  |  ⚡  |
