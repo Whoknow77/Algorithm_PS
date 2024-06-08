@@ -66,3 +66,5 @@
 |      [숫자 변환하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/154538)      | 2024/06/05 | [바로가기](./154538.js) |  ✔️  |
 |      [주차 요금 계산 ](https://school.programmers.co.kr/learn/courses/30/lessons/92341)      | 2024/06/06 | [바로가기](./92341.js)  |  ✔️  |
 |       [메뉴 리뉴얼 ](https://school.programmers.co.kr/learn/courses/30/lessons/72411)        | 2024/06/07 | [바로가기](./72411.js)  |  ⚡  |
+|    [[1차] 프렌즈4블록 ](https://school.programmers.co.kr/learn/courses/30/lessons/17679)     | 2024/06/08 | [바로가기](./17679.js)  |  ✔️  |
+|       [리코쳇 로봇 ](https://school.programmers.co.kr/learn/courses/30/lessons/169199)       | 2024/06/08 | [바로가기](./169199.js) |  ✔️  |
