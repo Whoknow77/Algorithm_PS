@@ -70,3 +70,4 @@
 |       [리코쳇 로봇 ](https://school.programmers.co.kr/learn/courses/30/lessons/169199)       | 2024/06/08 | [바로가기](./169199.js) |  ✔️  |
 |       [디펜스 게임 ](https://school.programmers.co.kr/learn/courses/30/lessons/142085)       | 2024/06/09 | [바로가기](./142085.js) |  ⚡  |
 |        [호텔 대실 ](https://school.programmers.co.kr/learn/courses/30/lessons/155651)        | 2024/06/10 | [바로가기](./155651.js) |  ✔️  |
+|         [더 맵게 ](https://school.programmers.co.kr/learn/courses/30/lessons/42626)          | 2024/06/11 | [바로가기](./42626.js)  |  ✔️  |
