@@ -75,3 +75,4 @@
 |  [가장 큰 정사각형 찾기 ](https://school.programmers.co.kr/learn/courses/30/lessons/12905)   | 2024/06/13 | [바로가기](./12905.js)  |  ⚡  |
 |       [하노이의 탑 ](https://school.programmers.co.kr/learn/courses/30/lessons/12946)        | 2024/06/14 | [바로가기](./12946.js)  |  ⚡  |
 |       [문자열 압축 ](https://school.programmers.co.kr/learn/courses/30/lessons/60057)        | 2024/06/20 | [바로가기](./60057.js)  |  ⚡  |
+|        [광물 캐기 ](https://school.programmers.co.kr/learn/courses/30/lessons/172927)        | 2024/06/21 | [바로가기](./172927.js) |  ⚡  |
