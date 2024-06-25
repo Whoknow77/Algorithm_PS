@@ -78,3 +78,4 @@
 |        [광물 캐기 ](https://school.programmers.co.kr/learn/courses/30/lessons/172927)        | 2024/06/21 | [바로가기](./172927.js) |  ⚡  |
 |      [과제 진행하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/176962)      | 2024/06/23 | [바로가기](./176962.js) |  ⚡  |
 |   [2개 이하로 다른 비트 ](https://school.programmers.co.kr/learn/courses/30/lessons/77885)   | 2024/06/24 | [바로가기](./77885.js)  |  ⚡  |
+|        [석유 시추 ](https://school.programmers.co.kr/learn/courses/30/lessons/250136)        | 2024/06/25 | [바로가기](./250136.js) |  ⚡  |
