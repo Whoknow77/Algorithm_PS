@@ -80,3 +80,4 @@
 |   [2개 이하로 다른 비트 ](https://school.programmers.co.kr/learn/courses/30/lessons/77885)   | 2024/06/24 | [바로가기](./77885.js)  |  ⚡  |
 |        [석유 시추 ](https://school.programmers.co.kr/learn/courses/30/lessons/250136)        | 2024/06/25 | [바로가기](./250136.js) |  ⚡  |
 |        [석유 시추 ](https://school.programmers.co.kr/learn/courses/30/lessons/250136)        | 2024/06/25 | [바로가기](./250136.js) |  ⚡  |
+|           [배달 ](https://school.programmers.co.kr/learn/courses/30/lessons/12978)           | 2024/06/30 | [바로가기](./12978.js)  |  ⚡  |
