@@ -24,3 +24,4 @@
 |            [이친수](https://www.acmicpc.net/problem/2193)            | 2024/04/19 |  [바로가기](./2193.js)   |  ✔️  |   S3   |
 |            [퇴사](https://www.acmicpc.net/problem/14501)             | 2024/04/20 |  [바로가기](./14501.js)  |  ⚡  |   S3   |
 |           [퇴사 2](https://www.acmicpc.net/problem/15486)            | 2024/04/20 | [바로가기](./1235486.js) |  ⚡  |   G5   |
+|         [평범한 배낭](https://www.acmicpc.net/problem/12865)         | 2024/04/20 |  [바로가기](./12865.js)  |  ⚡  |   G5   |
