@@ -83,3 +83,4 @@
 |           [배달 ](https://school.programmers.co.kr/learn/courses/30/lessons/12978)           | 2024/06/30 | [바로가기](./12978.js)  |  ⚡  |
 |        [괄호 변환 ](https://school.programmers.co.kr/learn/courses/30/lessons/60058)         | 2024/07/05 | [바로가기](./60058.js)  |  ✔️  |
 |       [수식 최대화 ](https://school.programmers.co.kr/learn/courses/30/lessons/67257)        | 2024/07/05 | [바로가기](./67257.js)  |  ⚡  |
+|   [도넛과 막대 그래프 ](https://school.programmers.co.kr/learn/courses/30/lessons/258711)    | 2024/07/07 | [바로가기](./258711.js) |  ⚡  |
