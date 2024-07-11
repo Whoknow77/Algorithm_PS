@@ -84,3 +84,5 @@
 |        [괄호 변환 ](https://school.programmers.co.kr/learn/courses/30/lessons/60058)         | 2024/07/05 | [바로가기](./60058.js)  |  ✔️  |
 |       [수식 최대화 ](https://school.programmers.co.kr/learn/courses/30/lessons/67257)        | 2024/07/05 | [바로가기](./67257.js)  |  ⚡  |
 |   [도넛과 막대 그래프 ](https://school.programmers.co.kr/learn/courses/30/lessons/258711)    | 2024/07/07 | [바로가기](./258711.js) |  ⚡  |
+|     [빛의 경로 사이클 ](https://school.programmers.co.kr/learn/courses/30/lessons/86052)     | 2024/07/12 | [바로가기](./86052.js)  |  ⚡  |
+|      [ 멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048)       | 2024/07/12 | [바로가기](./62048.js)  |  ⚡  |
