@@ -90,3 +90,4 @@
 |   [ 혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)    | 2024/08/18 | [바로가기](./160585.js) |  ✔️  |
 |  [ 두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)   | 2024/08/18 | [바로가기](./118667.js) |  ⚡  |
 |  [ 두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)   | 2024/08/19 | [바로가기](./181187.js) |  ✔️  |
+|         [ 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)         | 2024/08/20 | [바로가기](./17683.js)  |  ⚡  |
