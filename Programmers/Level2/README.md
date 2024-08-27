@@ -95,3 +95,4 @@
 |    [ 행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)    | 2024/08/22 | [바로가기](./77485.js)  |  ⚡  |
 |          [ 점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)          | 2024/08/23 | [바로가기](./140107.js) |  ⚡  |
 | [ k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | 2024/08/26 | [바로가기](./92335.js)  |  ⚡  |
+|          [ 조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)          | 2024/08/27 | [바로가기](./42860.js)  |  ⚡  |
