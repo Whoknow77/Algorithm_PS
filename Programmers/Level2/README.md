@@ -98,3 +98,4 @@
 |          [ 조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)          | 2024/08/27 | [바로가기](./42860.js)  |  ⚡  |
 |   [ 쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)    | 2024/08/28 | [바로가기](./68936.js)  |  ✔️  |
 |     [ 거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)      | 2024/08/29 | [바로가기](./81302.js)  |  ⚡  |
+|        [ 삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)         | 2024/08/30 | [바로가기](./68645.js)  |  ⚡  |
