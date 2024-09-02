@@ -99,3 +99,4 @@
 |   [ 쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)    | 2024/08/28 | [바로가기](./68936.js)  |  ✔️  |
 |     [ 거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)      | 2024/08/29 | [바로가기](./81302.js)  |  ⚡  |
 |        [ 삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)         | 2024/08/30 | [바로가기](./68645.js)  |  ⚡  |
+|        [ 무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)        | 2024/09/02 | [바로가기](./154540.js) |  ✔️  |
