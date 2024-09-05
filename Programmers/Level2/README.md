@@ -102,3 +102,4 @@
 |        [ 무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)        | 2024/09/02 | [바로가기](./154540.js) |  ✔️  |
 |           [ 후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)           | 2024/09/03 | [바로가기](./42890.js)  |  ⚡  |
 |      [ 우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239)      | 2024/09/04 | [바로가기](./134239.js) |  ✔️  |
+|     [ 혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)      | 2024/09/05 | [바로가기](./131130.js) |  ✔️  |
