@@ -79,7 +79,6 @@
 |       [과제 진행하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/176962)       | 2024/06/23 | [바로가기](./176962.js) |  ⚡  |
 |    [2개 이하로 다른 비트 ](https://school.programmers.co.kr/learn/courses/30/lessons/77885)    | 2024/06/24 | [바로가기](./77885.js)  |  ⚡  |
 |         [석유 시추 ](https://school.programmers.co.kr/learn/courses/30/lessons/250136)         | 2024/06/25 | [바로가기](./250136.js) |  ⚡  |
-|         [석유 시추 ](https://school.programmers.co.kr/learn/courses/30/lessons/250136)         | 2024/06/25 | [바로가기](./250136.js) |  ⚡  |
 |            [배달 ](https://school.programmers.co.kr/learn/courses/30/lessons/12978)            | 2024/06/30 | [바로가기](./12978.js)  |  ⚡  |
 |         [괄호 변환 ](https://school.programmers.co.kr/learn/courses/30/lessons/60058)          | 2024/07/05 | [바로가기](./60058.js)  |  ✔️  |
 |        [수식 최대화 ](https://school.programmers.co.kr/learn/courses/30/lessons/67257)         | 2024/07/05 | [바로가기](./67257.js)  |  ⚡  |
@@ -103,3 +102,4 @@
 |           [ 후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)           | 2024/09/03 | [바로가기](./42890.js)  |  ⚡  |
 |      [ 우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239)      | 2024/09/04 | [바로가기](./134239.js) |  ✔️  |
 |     [ 혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)      | 2024/09/05 | [바로가기](./131130.js) |  ✔️  |
+|     [ 이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)     | 2024/09/06 | [바로가기](./150368.js) |  ⚡  |
