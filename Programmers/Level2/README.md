@@ -105,3 +105,4 @@
 |     [ 이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)     | 2024/09/06 | [바로가기](./150368.js) |  ⚡  |
 |        [ 요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)        | 2024/09/09 | [바로가기](./181188.js) |  ⚡  |
 |          [ 양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)          | 2024/09/10 | [바로가기](./92342.js)  |  ⚡  |
+|         [ 순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)          | 2024/09/12 | [바로가기](./72412.js)  |  ⚡  |
