@@ -56,3 +56,4 @@
 - ### [해시](./Baekjoon/hash/README.md)
 - ### [투 포인터](./Baekjoon/twoPointer/README.md)
 - ### [구현](./Baekjoon/gu/README.md)
+- ### [랜덤](./Baekjoon/random/README.md)
