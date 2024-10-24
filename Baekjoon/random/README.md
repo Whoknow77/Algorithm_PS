@@ -36,3 +36,5 @@
 |      [1,2,3 더하기 4](https://www.acmicpc.net/problem/15989)      | 2024/10/13 |  [바로가기](./15989.py)  |  ⚡  |   G5   |
 |        [숨바꼭질 3](https://www.acmicpc.net/problem/13549)        | 2024/10/15 |  [바로가기](./13549.py)  |  ⚡  |   G5   |
 |         [A와 B 2](https://www.acmicpc.net/problem/12919)          | 2024/10/18 |  [바로가기](./12919.py)  |  ⚡  |   G5   |
+|         [0 만들기](https://www.acmicpc.net/problem/7490)          | 2024/10/23 |  [바로가기](./7490.js)   |  ✔️  |   G5   |
+|          [틱택토](https://www.acmicpc.net/problem/7682)           | 2024/10/24 |  [바로가기](./7682.js)   |  ✔️  |   G5   |
