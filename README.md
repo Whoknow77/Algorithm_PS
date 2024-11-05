@@ -35,6 +35,8 @@
 
 ## 백준
 
+### shift 지양하기, 한꺼번에 담아서 출력하기, forEach,대신 for, for of, for in 사용하기
+
 ### 단계별로 풀어보기
 
 - ### [심화 1](./Baekjoon/intense/README.md)

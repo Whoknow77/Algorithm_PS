@@ -53,3 +53,11 @@
 |        [소수 팰린드롬](https://www.acmicpc.net/problem/1747)         | 2024/11/04 |  [바로가기](./1747.js)   |  ✔️  |   S1   |
 |      [누울 자리를 찾아라](https://www.acmicpc.net/problem/1652)      | 2024/11/04 |  [바로가기](./1652.js)   |  ✔️  |   S5   |
 |        [차이를 최대로](https://www.acmicpc.net/problem/10819)        | 2024/11/04 |  [바로가기](./10819.js)  |  ✔️  |   S2   |
+|            [부등호](https://www.acmicpc.net/problem/2529)            | 2024/11/05 |  [바로가기](./2529.js)   |  ⚡  |   S1   |
+|          [신입 사원](https://www.acmicpc.net/problem/1946)           | 2024/11/05 |  [바로가기](./1946.js)   |  ⚡  |   S1   |
+|          [카드 놓기](https://www.acmicpc.net/problem/5568)           | 2024/11/05 |  [바로가기](./5568.js)   |  ✔️  |   S4   |
+|          [베스트셀러](https://www.acmicpc.net/problem/1302)          | 2024/11/05 |  [바로가기](./1302.js)   |  ✔️  |   S4   |
+|       [배부른 마라토너](https://www.acmicpc.net/problem/10546)       | 2024/11/05 |  [바로가기](./10546.js)  |  ✔️  |   S4   |
+|        [놀라운 문자열](https://www.acmicpc.net/problem/1972)         | 2024/11/05 |  [바로가기](./1972.js)   |  ✔️  |   S3   |
+|            [암기왕](https://www.acmicpc.net/problem/2776)            | 2024/11/05 |  [바로가기](./2776.js)   |  ✔️  |   S4   |
+|           [임진왜란](https://www.acmicpc.net/problem/3077)           | 2024/11/05 |  [바로가기](./3077.js)   |  ✔️  |   S3   |
