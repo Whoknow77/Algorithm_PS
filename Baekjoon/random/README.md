@@ -62,3 +62,4 @@
 |            [암기왕](https://www.acmicpc.net/problem/2776)            | 2024/11/05 |  [바로가기](./2776.js)   |  ✔️  |   S4   |
 |           [임진왜란](https://www.acmicpc.net/problem/3077)           | 2024/11/05 |  [바로가기](./3077.js)   |  ✔️  |   S3   |
 |         [수리공 항승](https://www.acmicpc.net/problem/1449)          | 2024/11/06 |  [바로가기](./1449.js)   |  ✔️  |   S3   |
+|            [보물섬](https://www.acmicpc.net/problem/2589)            | 2024/11/07 |  [바로가기](./2589.js)   |  ✔️  |   G5   |
