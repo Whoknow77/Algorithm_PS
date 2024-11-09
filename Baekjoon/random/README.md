@@ -63,3 +63,6 @@
 |           [임진왜란](https://www.acmicpc.net/problem/3077)           | 2024/11/05 |  [바로가기](./3077.js)   |  ✔️  |   S3   |
 |         [수리공 항승](https://www.acmicpc.net/problem/1449)          | 2024/11/06 |  [바로가기](./1449.js)   |  ✔️  |   S3   |
 |            [보물섬](https://www.acmicpc.net/problem/2589)            | 2024/11/07 |  [바로가기](./2589.js)   |  ✔️  |   G5   |
+|         [암호 만들기](https://www.acmicpc.net/problem/1759)          | 2024/11/08 |  [바로가기](./1759.js)   |  ✔️  |   G5   |
+|        [로봇 프로젝트](https://www.acmicpc.net/problem/3649)         | 2024/11/08 |  [바로가기](./3649.js)   |  ⚡  |   G5   |
+|        [전화번호 목록](https://www.acmicpc.net/problem/5052)         | 2024/11/09 |  [바로가기](./5052.js)   |  ⚡  |   G4   |
