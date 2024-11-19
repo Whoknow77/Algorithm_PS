@@ -66,3 +66,8 @@
 |         [암호 만들기](https://www.acmicpc.net/problem/1759)          | 2024/11/08 |  [바로가기](./1759.js)   |  ✔️  |   G5   |
 |        [로봇 프로젝트](https://www.acmicpc.net/problem/3649)         | 2024/11/08 |  [바로가기](./3649.js)   |  ⚡  |   G5   |
 |        [전화번호 목록](https://www.acmicpc.net/problem/5052)         | 2024/11/09 |  [바로가기](./5052.js)   |  ⚡  |   G4   |
+|          [빌런 호석](https://www.acmicpc.net/problem/22251)          | 2024/11/10 |  [바로가기](./22251.js)  |  ⚡  |   G5   |
+|          [좋은 수열](https://www.acmicpc.net/problem/2661)           | 2024/11/14 |  [바로가기](./2661.js)   |  ⚡  |   G4   |
+|  [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)   | 2024/11/18 |  [바로가기](./4485.js)   |  ⚡  |   G4   |
+|      [스카이라인 쉬운거](https://www.acmicpc.net/problem/4485)       | 2024/11/18 |  [바로가기](./1863.js)   |  ⚡  |   G4   |
+|          [빌런 호석](https://www.acmicpc.net/problem/22251)          | 2024/11/19 |  [바로가기](./22251.js)  |  ⚡  |   G5   |
