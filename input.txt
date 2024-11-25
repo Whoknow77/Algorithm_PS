@@ -1,1 +1,9 @@
-48 2 5 35
+8
+a
+acd
+ab
+abc
+ace
+abd
+acf
+ade

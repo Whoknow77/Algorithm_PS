@@ -71,3 +71,5 @@
 |  [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)   | 2024/11/18 |  [바로가기](./4485.js)   |  ⚡  |   G4   |
 |      [스카이라인 쉬운거](https://www.acmicpc.net/problem/4485)       | 2024/11/18 |  [바로가기](./1863.js)   |  ⚡  |   G4   |
 |          [빌런 호석](https://www.acmicpc.net/problem/22251)          | 2024/11/19 |  [바로가기](./22251.js)  |  ⚡  |   G5   |
+|           [줄세우기](https://www.acmicpc.net/problem/2631)           | 2024/11/23 |  [바로가기](./2631.js)   |  ⚡  |   G4   |
+|         [비슷한 단어](https://www.acmicpc.net/problem/2179)          | 2024/11/25 |  [바로가기](./2179.js)   |  ✔️  |   G4   |
