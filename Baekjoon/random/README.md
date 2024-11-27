@@ -73,3 +73,5 @@
 |          [빌런 호석](https://www.acmicpc.net/problem/22251)          | 2024/11/19 |  [바로가기](./22251.js)  |  ⚡  |   G5   |
 |           [줄세우기](https://www.acmicpc.net/problem/2631)           | 2024/11/23 |  [바로가기](./2631.js)   |  ⚡  |   G4   |
 |         [비슷한 단어](https://www.acmicpc.net/problem/2179)          | 2024/11/25 |  [바로가기](./2179.js)   |  ✔️  |   G4   |
+|             [파티](https://www.acmicpc.net/problem/1238)             | 2024/11/26 |  [바로가기](./1238.js)   |  ⚡  |   G3   |
+|           [최단경로](https://www.acmicpc.net/problem/1753)           | 2024/11/27 |  [바로가기](./1753.js)   |  ⚡  |   G4   |
