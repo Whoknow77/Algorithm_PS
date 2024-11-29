@@ -75,3 +75,5 @@
 |         [비슷한 단어](https://www.acmicpc.net/problem/2179)          | 2024/11/25 |  [바로가기](./2179.js)   |  ✔️  |   G4   |
 |             [파티](https://www.acmicpc.net/problem/1238)             | 2024/11/26 |  [바로가기](./1238.js)   |  ⚡  |   G3   |
 |           [최단경로](https://www.acmicpc.net/problem/1753)           | 2024/11/27 |  [바로가기](./1753.js)   |  ⚡  |   G4   |
+|        [전구와 스위치](https://www.acmicpc.net/problem/2138)         | 2024/11/28 |  [바로가기](./2138.js)   |  ⚡  |   G4   |
+|             [걷기](https://www.acmicpc.net/problem/1459)             | 2024/11/29 |  [바로가기](./1459.js)   |  ✔️  |   S3   |
