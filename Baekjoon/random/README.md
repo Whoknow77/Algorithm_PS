@@ -79,3 +79,4 @@
 |             [걷기](https://www.acmicpc.net/problem/1459)             | 2024/11/29 |  [바로가기](./1459.js)   |  ✔️  |   S3   |
 |         [등수 매기기](https://www.acmicpc.net/problem/2012)          | 2024/12/06 |  [바로가기](./2012.js)   |  ✔️  |   S3   |
 |         [초콜릿 식사](https://www.acmicpc.net/problem/2885)          | 2024/12/06 |  [바로가기](./2885.js)   |  ✔️  |   S2   |
+|         [Yonsei TOTO](https://www.acmicpc.net/problem/12018)         | 2024/12/12 |  [바로가기](./12018.js)  |  ✔️  |   S3   |
