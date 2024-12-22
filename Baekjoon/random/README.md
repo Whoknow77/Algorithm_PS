@@ -81,3 +81,4 @@
 |         [초콜릿 식사](https://www.acmicpc.net/problem/2885)          | 2024/12/06 |  [바로가기](./2885.js)   |  ✔️  |   S2   |
 |         [Yonsei TOTO](https://www.acmicpc.net/problem/12018)         | 2024/12/12 |  [바로가기](./12018.js)  |  ✔️  |   S3   |
 |        [흙길 보수하기](https://www.acmicpc.net/problem/1911)         | 2024/12/13 |  [바로가기](./1911.js)   |  ✔️  |   G5   |
+|             [센서](https://www.acmicpc.net/problem/1911)             | 2024/12/22 |  [바로가기](./2212.js)   |  ⚡  |   G5   |
