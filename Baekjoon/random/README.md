@@ -82,3 +82,6 @@
 |         [Yonsei TOTO](https://www.acmicpc.net/problem/12018)         | 2024/12/12 |  [바로가기](./12018.js)  |  ✔️  |   S3   |
 |        [흙길 보수하기](https://www.acmicpc.net/problem/1911)         | 2024/12/13 |  [바로가기](./1911.js)   |  ✔️  |   G5   |
 |             [센서](https://www.acmicpc.net/problem/1911)             | 2024/12/22 |  [바로가기](./2212.js)   |  ⚡  |   G5   |
+|            [회문](https://www.acmicpc.net/problem/17609)             | 2024/12/24 |  [바로가기](./17609.js)  |  ✔️  |   G5   |
+|         [올바른 괄호](https://www.acmicpc.net/problem/24552)         | 2024/12/25 |  [바로가기](./24552.js)  |  ⚡  |   G4   |
+|        [수 이어 쓰기 2](https://www.acmicpc.net/problem/1790)        | 2024/12/25 |  [바로가기](./1790.js)   |  ⚡  |   G5   |
