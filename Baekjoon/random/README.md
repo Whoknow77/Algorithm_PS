@@ -85,3 +85,5 @@
 |            [회문](https://www.acmicpc.net/problem/17609)             | 2024/12/24 |  [바로가기](./17609.js)  |  ✔️  |   G5   |
 |         [올바른 괄호](https://www.acmicpc.net/problem/24552)         | 2024/12/25 |  [바로가기](./24552.js)  |  ⚡  |   G4   |
 |        [수 이어 쓰기 2](https://www.acmicpc.net/problem/1790)        | 2024/12/25 |  [바로가기](./1790.js)   |  ⚡  |   G5   |
+|        [수 이어 쓰기 3](https://www.acmicpc.net/problem/2154)        | 2024/12/26 |  [바로가기](./2154.js)   |  ✔️  |   B2   |
+|            [도서관](https://www.acmicpc.net/problem/1461)            | 2024/12/26 |  [바로가기](./1461.js)   |  ✔️  |   G4   |
