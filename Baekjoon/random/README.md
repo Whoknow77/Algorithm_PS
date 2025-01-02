@@ -88,3 +88,4 @@
 |        [수 이어 쓰기 3](https://www.acmicpc.net/problem/2154)        | 2024/12/26 |  [바로가기](./2154.js)   |  ✔️  |   B2   |
 |            [도서관](https://www.acmicpc.net/problem/1461)            | 2024/12/26 |  [바로가기](./1461.js)   |  ✔️  |   G4   |
 |         [문자열 복사](https://www.acmicpc.net/problem/2195)          | 2024/12/30 |  [바로가기](./2195.js)   |  ✔️  |   G5   |
+|          [댄스 파티](https://www.acmicpc.net/problem/2831)           | 2025/01/02 |  [바로가기](./2831.js)   |  ✔️  |   G4   |
