@@ -91,3 +91,4 @@
 |          [댄스 파티](https://www.acmicpc.net/problem/2831)           | 2025/01/02 |  [바로가기](./2831.js)   |  ✔️  |   G4   |
 |            [정육점](https://www.acmicpc.net/problem/2258)            | 2025/01/03 |  [바로가기](./2258.js)   |  ⚡  |   G4   |
 |          [문서 검색](https://www.acmicpc.net/problem/1543)           | 2025/01/09 |  [바로가기](./1543.js)   |  ✔️  |   S5   |
+|            [A와 B](https://www.acmicpc.net/problem/12904)            | 2025/01/10 |  [바로가기](./12904.js)  |  ✔️  |   G5   |
